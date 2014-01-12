@@ -77,6 +77,21 @@
           29.97610781008063
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enclosure Dam Ijsselmeer",
+        "url": "http://en.wikipedia.org/wiki/Afsluitdijk",
+        "type": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.203399658203125,
+          53.01932701946988
+        ]
+      }
     }
   ]
 }
