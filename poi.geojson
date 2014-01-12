@@ -17,6 +17,21 @@
           52.52077779392211
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oresund Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/%C3%98resund_Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.807998657226562,
+          55.57950909340291
+        ]
+      }
     }
   ]
 }
