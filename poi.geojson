@@ -62,6 +62,21 @@
           41.04518109756753
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Giza_Necropolis",
+        "name": "Giza Necropolis",
+        "type": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.131091117858887,
+          29.97610781008063
+        ]
+      }
     }
   ]
 }
