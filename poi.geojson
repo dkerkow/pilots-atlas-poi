@@ -4,17 +4,17 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "test1",
-        "type": "building",
-        "url": "",
-        "comment": "hier tagte Gesellschaft X",
-        "date": "1.1.1900"
+        "name": "Berliner Fernsehturm",
+        "type": "tower",
+        "url": "http://de.wikipedia.org/wiki/Berliner_Fernsehturm",
+        "comment": "",
+        "date": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.38206386566162,
-          51.34274364148393
+          13.409414291381836,
+          52.52077779392211
         ]
       }
     }
