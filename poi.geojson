@@ -32,6 +32,21 @@
           55.57950909340291
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golden Gate Bridge",
+        "url": "http://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+        "type": "bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.47833251953125,
+          37.81832758980241
+        ]
+      }
     }
   ]
 }
