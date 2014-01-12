@@ -92,6 +92,21 @@
           53.01932701946988
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Palm_Islands",
+        "name": "Palm Islands",
+        "type": "landmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.122528076171875,
+          25.12663595638182
+        ]
+      }
     }
   ]
 }
