@@ -47,6 +47,21 @@
           37.81832758980241
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bosphorus Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bosphorus_Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.03480529785156,
+          41.04518109756753
+        ]
+      }
     }
   ]
 }
