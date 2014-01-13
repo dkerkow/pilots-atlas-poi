@@ -137,6 +137,272 @@
           40.68924563540814
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Nevis",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ben_Nevis",
+        "elevation (meter)": 1344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.003414154052734,
+          56.79702439081462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Macdhui",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ben_Macdui",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6690902709960938,
+          57.070416346118094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Braeriach",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Braeriach",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7290000915527344,
+          57.07806750862629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairn Toul",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Cairn_Toul",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7108039855957027,
+          57.05445579673564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sgor an Lochain Uaine",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Sg%C3%B2r_an_Lochain_Uaine",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.725566864013672,
+          57.05818987348866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairn Gorm",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Cairn_Gorm",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6445426940917964,
+          57.116392860554505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ben Lawers",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ben_Lawers",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.221324920654297,
+          56.54481701416055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Snowdon",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Snowdon",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1085
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.076957702636719,
+          53.06803922644922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carnedd Llewelyn",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Carnedd_Llewelyn",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1064
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.970184326171875,
+          53.1600497136244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pen Yr Ole Wen",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Pen_yr_Ole_Wen",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.011039733886719,
+          53.13770917044239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scafell Pike",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Scafell_Pike",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 978
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2117843627929688,
+          54.45417312136008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slieve Donard",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Slieve_Donard",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 852
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.921287536621094,
+          54.1801192265262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slieve Commedagh",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Slieve_Commedagh",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9387969970703125,
+          54.18875813719818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uluru - Ayers Rock",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Uluru",
+        "elevation (meter)": 863
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.033935546875,
+          -25.345267139880555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Narodnaya",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Narodnaya",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.115814208984375,
+          65.03737880040538
+        ]
+      }
     }
   ]
 }
