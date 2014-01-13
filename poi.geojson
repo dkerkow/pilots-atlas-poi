@@ -403,6 +403,125 @@
           65.03737880040538
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galdhøpiggen",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Galdh%C3%B8piggen",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.31235885620117,
+          61.63642144389094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keilhaus topp",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Keilhaus_topp",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.32639217376709,
+          61.6349840864192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kebnekaise",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Kebnekaise",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.337936401367188,
+          61.63413795114623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaskasapakte",
+        "type": "peak",
+        "url": "",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.52672576904297,
+          67.90532642741321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haltitunturi",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Halti",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5833740234375,
+          67.94216576993041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saana",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Saana",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1029
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.27914428710937,
+          69.31443961708136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.855140686035156,
+          69.04365063526953
+        ]
+      }
     }
   ]
 }
