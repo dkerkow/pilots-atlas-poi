@@ -137,22 +137,6 @@
           40.68924563540814
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "New Point",
-        "type": "Test-Point",
-        "url": "http://geojson.io/#id=github:rreuter/pilots-atlas-poi/blob/master/poi.geojson&map=4/56.00/-4.66",
-        "comment": "Test RR"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.658203125,
-          55.97379820507658
-        ]
-      }
     }
   ]
 }
