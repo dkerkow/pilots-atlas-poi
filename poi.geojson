@@ -514,12 +514,333 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Rysy",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Rysy",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2503
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           20.855140686035156,
           69.04365063526953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sněžka (Schneekoppe)",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Snezka",
+        "elevation (meter)": 1602
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08901596069336,
+          49.17777593186794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mięguszowiecki Szczyt Pośredni",
+        "type": "peak",
+        "url": "http://sk.wikipedia.org/wiki/Prostredny_Mengusovsky_stit",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.740017890930176,
+          50.735939082337104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Zeil",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Zeil",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.061893463134766,
+          49.18484512797984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Bartle Frere",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Bartle_Frere",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.3639678955078,
+          -23.593250456503075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Woodroffe",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Woodroffe",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1435
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8263397216797,
+          -17.392579271057766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Bogong",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Bogong",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.74530029296875,
+          -26.305726417424278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Meharry",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Meharry",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.30571746826172,
+          -36.732968633440336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atherton Tablelands",
+        "type": "vulcano",
+        "url": "http://en.wikipedia.org/wiki/Atherton_Tableland",
+        "date": "",
+        "elevation (meter)": 1622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.60427856445311,
+          -22.974830953706174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Fox",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Fox_(Queensland)",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.53348541259766,
+          -17.16637836599184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Barney",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Barney",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8057403564453,
+          -18.836114907961953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Lindesay",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Lindesay_(Queensland)",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.69777297973633,
+          -28.28034707006521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Canobolas",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Canobolas",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.72403717041016,
+          -28.343971397415416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Kaputar",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Kaputar",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.98387908935547,
+          -33.342861977957845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Warning (Wollumbin)",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Warning",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.1508331298828,
+          -30.256991352205794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Hotham",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Hotham",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2706069946289,
+          -28.3977427714554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big Ben",
+        "type": "vulcano",
+        "url": "http://en.wikipedia.org/wiki/Big_Ben_(Heard_Island)",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2745
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.1282196044922,
+          -36.97567823176651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ball’s Pyramid",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Ball%27s_Pyramid",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4710693359375,
+          -53.084126922178825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          159.25043106079102,
+          -31.753714855622707
         ]
       }
     }
