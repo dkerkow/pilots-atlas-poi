@@ -835,12 +835,138 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Mount Townsend",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Mount_Townsend",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2209
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           159.25043106079102,
           -31.753714855622707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Twynam",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Twynam",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25843811035156,
+          -36.422387486423695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rams Head",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Rams_Head",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.31457138061523,
+          -36.393374902600684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Etheridge Ridge",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Etheridge_Ridge",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.25878143310547,
+          -36.491559453051735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Gungartan",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Gungartan",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2068
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26976776123044,
+          -36.4556695266622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Jagungal",
+        "type": "peak",
+        "url": "http://de.wikipedia.org/wiki/Mount_Jagungal",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 2161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.40091705322266,
+          -36.28427370218716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bimberi Peak",
+        "type": "peak",
+        "url": "http://peakbagger.com/peak.aspx?pid=11592",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": 1913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.38735580444336,
+          -36.148132946459825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.79676818847656,
+          -35.6734740567787
         ]
       }
     }
