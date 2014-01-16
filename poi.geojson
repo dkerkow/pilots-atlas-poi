@@ -7,7 +7,7 @@
         "name": "Berliner Fernsehturm",
         "type": "tower",
         "url": "http://en.wikipedia.org/wiki/Fernsehturm_Berlin",
-        "comment": "Hallo",
+        "comment": "",
         "date": ""
       },
       "geometry": {
@@ -23,7 +23,11 @@
       "properties": {
         "name": "Oresund Bridge",
         "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/%C3%98resund_Bridge"
+        "url": "http://en.wikipedia.org/wiki/%C3%98resund_Bridge",
+        "comment": "The Öresund or Öresund Bridge is a double-track railway and dual carriageway bridge-tunnel across the Öresundstrait between Scania (southernmost Sweden) and Denmark.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "7,845"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +398,8 @@
         "url": "http://en.wikipedia.org/wiki/Mount_Narodnaya",
         "comment": "",
         "date": "",
-        "elevation (meter)": 1895
+        "elevation (meter)": 1895,
+        "length (Km)": ""
       },
       "geometry": {
         "type": "Point",
@@ -1321,13 +1326,87 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Great Belt Fixed Link",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Great_Belt_Fixed_Link",
+        "comment": "The Great Belt Fixed Link runs between the Danish islands of Zealand and Funen. It consists of a road suspension bridge and railway tunnel between Zealand and the Island Sprogø, and a box girder bridge between Sprogø and Funen. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,790"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.5460205078125,
           37.42470717168675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/%C3%96land_Bridge",
+        "comment": "The Öland Bridge is a road bridge connecting Kalmar on mainland Sweden to Färjestaden on the island of Öland to its east. At 6,072 meters long, it is one of the longest in all of Europe.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97259521484375,
+          55.338517844256366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hell Gate Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hell_Gate_Bridge",
+        "comment": "The Hell Gate Bridge is a 1,017-foot (310 m) steel through arch railroad bridge in New York City. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "5,20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41357421875,
+          56.67584735015159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeeland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Zeeland_Bridge",
+        "comment": "The Zeeland Bridge is the longest bridge in the Netherlands. The bridge spans the Oosterschelde estuary. It connects the islands of Schouwen-Duiveland and Noord-Beveland in the province of Zeeland",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "5,022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92288208007812,
+          40.783271058668454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7078857421874996,
+          51.63719775332166
         ]
       }
     }
