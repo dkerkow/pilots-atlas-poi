@@ -961,12 +961,50 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Danyang–Kunshan Grand Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Danyang%E2%80%93Kunshan_Grand_Bridge",
+        "comment": "built: 2010, opened: 30.06.2011,  is the world's longest bridge",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "164,8"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           148.79676818847656,
           -35.6734740567787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jiaozhou Bay Bridge",
+        "url": "http://en.wikipedia.org/wiki/Jiaozhou_Bay_Bridge",
+        "type": "bridge",
+        "comment": "world's \"longest bridge\" over water, constructed:2007-2011, opened: 30.06.2011",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "26,707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.52688598632812,
+          30.146314738085053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.20690917968749,
+          36.14231087352999
         ]
       }
     }
