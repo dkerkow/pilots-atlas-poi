@@ -1076,13 +1076,125 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Bang Na Expressway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bang_Na_Expressway",
+        "comment": "The Bang Na Expressway is a 55 km long six-lane elevated highway in Thailand.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "55,0"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           110.3961181640625,
           30.622550184776674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manchac Swamp Brücke",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Manchac_Swamp_bridge",
+        "comment": "The Manchac Swamp Bridge is a twin concrete trestle bridge in the US state of Louisiana. With a total length of 22.80 miles (36.69 km) it is one of the longest bridges in the world over water.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "36,710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.77621459960938,
+          13.604612895598308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hangzhou Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hangzhou_Bay_Bridge",
+        "comment": "Hangzhou Bay Bridge is a highway bridge with a cable-stayed portion across Hangzhou Bay in the eastern coastal region of China.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "35,673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40924072265625,
+          30.308874460573502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donghai Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Donghai_Bridge",
+        "comment": "Donghai Bridge is one of the longest cross-sea bridges in the world. It was completed on December 10, 2005. It has a total length of 32.5 kilometres (20.2 mi) and connects mainland Shanghai and the offshore Yangshan deep-water port in China.",
+        "length (Km)": "32,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.124267578125,
+          30.460511875130663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atchafalaya Basin Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Atchafalaya_Basin",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "29,29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.97296142578124,
+          30.725309888823382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/King_Fahd_Causeway",
+        "name": "King Fahd Causeway",
+        "type": "bridge",
+        "comment": "The King Fahd Causeway is a series of bridges and causeways connecting Saudi Arabia and Bahrain.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "25,0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.58065795898438,
+          30.38235321766959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.3009033203125,
+          26.194876675795218
         ]
       }
     }
