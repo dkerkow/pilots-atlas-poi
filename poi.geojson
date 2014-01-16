@@ -1188,13 +1188,146 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Chesapeake Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Chesapeake_Bay_Bridge%E2%80%93Tunnel",
+        "comment": "The Chesapeake Bay Bridge–Tunnel (CBBT) is a 23-mile-long (37 km) fixed link crossing the mouth of the United States' Chesapeake Bay and connecting the Delmarva Peninsula's Eastern Shore of the state ofVirginia with Virginia Beach and the metropolitan area of Hampton Roads, Virginia.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "28,3"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           50.3009033203125,
           26.194876675795218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shanghai Yangtze River Tunnel and Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_Yangtze_River_Tunnel_and_Bridge",
+        "comment": "The Shanghai Yangtze River Tunnel starts on the south bank of the Yangtze at Wuhaogou, Pudong and ends in the south of Changxing Island. It is 8.9 kilometres (5.5 mi) in length, and has two stacked levels. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0968017578125,
+          37.00693943418586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penang Second Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Penang_Second_Bridge",
+        "comment": "The Penang Second Bridge is a bridge in Penang, Malaysia. It connects Batu Kawan on the mainland with Seberang Perai and Batu Maung on Penang Island. It is the second bridge to link the island to the mainland after the first Penang Bridge.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "24,0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6845703125,
+          31.353636941500987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Penang_Bridge",
+        "name": "Penang Bridge (1st)",
+        "type": "bridge",
+        "comment": "Penang Bridge is a dual carriageway toll bridge connects George Town on the island of Penang and Seberang Prai on the mainland of Malaysia on the Malay Peninsula.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "13,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35633087158203,
+          5.254725948409637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio–Niterói Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Rio%E2%80%93Niter%C3%B3i_Bridge",
+        "comment": "President Costa e Silva Bridge, commonly known as the Rio-Niteroi Bridge, is a box girder bridge located at Guanabara Bay, in the State of Rio de Janeiro in Brazil. It connects the cities of Rio de Janeiro and the municipality of Niterói.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "13,29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.35049438476561,
+          5.357623243645222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Confederation Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Confederation_Bridge",
+        "comment": "The Confederation Bridge spans the Abegweit Passage of Northumberland Strait. It links Prince Edward Island with mainland New Brunswick, Canada. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "12,9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.17146301269531,
+          -22.8673179600756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Incheon Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Incheon_Bridge",
+        "comment": "The Incheon Bridge (also called the Incheon Grand Bridge) is a newly constructed reinforced concrete bridge in South Korea. At its opening in October 2009, it became the second connection between Yeongjong Island and the mainland of Incheon.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "21,38"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.77563476562499,
+          46.19219023536159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.5460205078125,
+          37.42470717168675
         ]
       }
     }
