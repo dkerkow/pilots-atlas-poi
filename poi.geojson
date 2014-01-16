@@ -999,12 +999,72 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Lake Pontchartrain Causeway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Lake_Pontchartrain_Causeway",
+        "comment": "The Lake Pontchartrain Causeway, sometimes only the Causeway,[2] is a causeway composed of two parallel bridges crossing Lake Pontchartrain in southern Louisiana, United States.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "38,442"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           120.20690917968749,
           36.14231087352999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ponte Vasco da Gama",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Ponte_Vasco_da_Gama",
+        "comment": "The Vasco da Gama Bridge is a cable-stayed bridge flanked by viaducts and rangeviews that spans the Tagus River in Parque das Nações in Lisbon, capital of Portugal, built in  1998",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "17,2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.14007568359375,
+          30.139189195422194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/25_de_Abril_Bridge",
+        "name": "Ponte 25 de Abril",
+        "type": "bridge",
+        "comment": "The 25 de Abril Bridge is a suspension bridge connecting the city of Lisbon, capital of Portugal, to the municipality of Almada on the left (south) bank of the Tejo river.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,278"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.045867919921875,
+          38.762650338334154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "",
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.180450439453125,
+          38.69086943518648
         ]
       }
     }
