@@ -1057,14 +1057,32 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "",
-        "name": ""
+        "url": "http://en.wikipedia.org/wiki/Sidu_River_Bridge",
+        "name": "Sidu River Bridge",
+        "type": "bridge",
+        "comment": "World's highest bridge since 2009. The Sidu River Bridge is a 1,222 m-long (4,009 ft) suspension bridge crossing the valley of the Sidu River near Yesanguan in Badong County of the Hubei Province",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,222"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -9.180450439453125,
           38.69086943518648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3961181640625,
+          30.622550184776674
         ]
       }
     }
