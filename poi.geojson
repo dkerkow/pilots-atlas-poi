@@ -1401,12 +1401,88 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Baluarte Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Baluarte_Bridge",
+        "comment": "The Baluarte Bridge, officially the Baluarte Bicentennial Bridge, is a cable-stayed bridge in Mexico. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,124"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           3.7078857421874996,
           51.63719775332166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millau Viaduct",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Millau_Viaduct",
+        "comment": "The Millau Viaduct is a cable-stayed bridge that spans the valley of the River Tarn near Millau in southern France.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.76177597045898,
+          23.534245132668826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutong Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sutong_Bridge",
+        "comment": "The Sutong Yangtze River Bridge, is a cable-stayed bridge that spans the Yangtze River in China between Nantong and Changshu, a satellite city of Suzhou, in Jiangsu province.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0205535888671875,
+          44.097201680022955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akashi Kaikyō Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge",
+        "comment": "The Akashi Kaikyō Bridge, also known as the Pearl Bridge, links the city of Kobe on the mainland of Honshu to Iwaya on Awaji Island, in Japan. It crosses the busy Akashi Strait in Japanese.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "3,911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99517822265625,
+          31.784216884487385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0212860107422,
+          34.61795213502554
         ]
       }
     }
