@@ -7,7 +7,7 @@
         "name": "Berliner Fernsehturm",
         "type": "tower",
         "url": "http://en.wikipedia.org/wiki/Fernsehturm_Berlin",
-        "comment": "Hallo",
+        "comment": "",
         "date": ""
       },
       "geometry": {
@@ -23,7 +23,11 @@
       "properties": {
         "name": "Oresund Bridge",
         "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/%C3%98resund_Bridge"
+        "url": "http://en.wikipedia.org/wiki/%C3%98resund_Bridge",
+        "comment": "The Öresund or Öresund Bridge is a double-track railway and dual carriageway bridge-tunnel across the Öresundstrait between Scania (southernmost Sweden) and Denmark.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "7,845"
       },
       "geometry": {
         "type": "Point",
@@ -38,7 +42,11 @@
       "properties": {
         "name": "Golden Gate Bridge",
         "url": "http://en.wikipedia.org/wiki/Golden_Gate_Bridge",
-        "type": "bridge"
+        "type": "bridge",
+        "comment": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the mile-wide, three-mile-long channel between San Francisco Bay and the Pacific Ocean.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,737"
       },
       "geometry": {
         "type": "Point",
@@ -394,7 +402,8 @@
         "url": "http://en.wikipedia.org/wiki/Mount_Narodnaya",
         "comment": "",
         "date": "",
-        "elevation (meter)": 1895
+        "elevation (meter)": 1895,
+        "length (Km)": ""
       },
       "geometry": {
         "type": "Point",
@@ -1321,13 +1330,504 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Great Belt Fixed Link",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Great_Belt_Fixed_Link",
+        "comment": "The Great Belt Fixed Link runs between the Danish islands of Zealand and Funen. It consists of a road suspension bridge and railway tunnel between Zealand and the Island Sprogø, and a box girder bridge between Sprogø and Funen. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,790"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           126.5460205078125,
           37.42470717168675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/%C3%96land_Bridge",
+        "comment": "The Öland Bridge is a road bridge connecting Kalmar on mainland Sweden to Färjestaden on the island of Öland to its east. At 6,072 meters long, it is one of the longest in all of Europe.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97259521484375,
+          55.338517844256366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hell Gate Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hell_Gate_Bridge",
+        "comment": "The Hell Gate Bridge is a 1,017-foot (310 m) steel through arch railroad bridge in New York City. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "5,20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.41357421875,
+          56.67584735015159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeeland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Zeeland_Bridge",
+        "comment": "The Zeeland Bridge is the longest bridge in the Netherlands. The bridge spans the Oosterschelde estuary. It connects the islands of Schouwen-Duiveland and Noord-Beveland in the province of Zeeland",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "5,022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92288208007812,
+          40.783271058668454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baluarte Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Baluarte_Bridge",
+        "comment": "The Baluarte Bridge, officially the Baluarte Bicentennial Bridge, is a cable-stayed bridge in Mexico. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7078857421874996,
+          51.63719775332166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millau Viaduct",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Millau_Viaduct",
+        "comment": "The Millau Viaduct is a cable-stayed bridge that spans the valley of the River Tarn near Millau in southern France.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,460"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.76177597045898,
+          23.534245132668826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sutong Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sutong_Bridge",
+        "comment": "The Sutong Yangtze River Bridge, is a cable-stayed bridge that spans the Yangtze River in China between Nantong and Changshu, a satellite city of Suzhou, in Jiangsu province.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0205535888671875,
+          44.097201680022955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akashi Kaikyō Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge",
+        "comment": "The Akashi Kaikyō Bridge, also known as the Pearl Bridge, links the city of Kobe on the mainland of Honshu to Iwaya on Awaji Island, in Japan. It crosses the busy Akashi Strait in Japanese.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "3,911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99517822265625,
+          31.784216884487385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonecutters Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Stonecutters_Bridge",
+        "comment": "Stonecutters Bridge is a high level cable-stayed bridge which spans the Rambler Channel in Hong Kong, connecting Nam Wan Kok, Tsing Yi island and Stonecutters Island. The bridge deck was completed on 7 April 2009, making this the second longest cable-stayed span in the world at the time of its completion, and opened to traffic on 20 December 2009",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.0212860107422,
+          34.61795213502554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Tatara_Bridge",
+        "name": "Tatara Bridge",
+        "type": "bridge",
+        "comment": "The Tatara Bridge is a cable-stayed bridge that is part of the Nishiseto Expressway, commonly known as the Shimanami Kaidō. The bridge has a center span of 890 metres. As of 2010 it has the fourth longest main span of any cable-stayed bridge after the Sutong Bridge.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11842346191405,
+          22.325782524687973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pont de Normandie",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pont_de_Normandie",
+        "comment": "The Pont de Normandie is a cable-stayed road bridge that spans the river Seine linking Le Havre to Honfleur in Normandy, northern France.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0615997314453,
+          34.259770269100535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Runyang_Bridge",
+        "name": "Runyang-Brücke",
+        "type": "bridge",
+        "comment": "The Runyang Bridge is a large bridge complex that crosses the Yangtze River in Jiangsu Province, China, downstream of Nanjing. The complex consists of two major bridges that link Zhenjiang on the south bank of the river and Yangzhou on the north.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.27294158935546875,
+          49.435984899682005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verrazano–Narrows Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Verrazano%E2%80%93Narrows_Bridge",
+        "comment": "The Verrazano–Narrows Bridge, in the U.S. state of New York, is a double-decked suspension bridge that connects the boroughs of Staten Island and Brooklyn in New York City at the Narrows, the reach connecting the relatively protected upper bay with the larger lower bay.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.35821533203125,
+          32.219772236460905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kocher Viaduct",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kocher_Viaduct",
+        "comment": "On the Kocher Viaduct near Schwäbisch Hall in Germany, crosses the Kocher valley between Heilbronn and Nuremberg. With its maximum height of 185m above the valley bottom, it is the highest viaduct in Germany.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04716491699219,
+          40.60613336268842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bebresh Viaduct",
+        "type": "bridge",
+        "url": "http://www.highestbridges.com/wiki/index.php?title=Bebresh_Viaduct",
+        "comment": "The highest bridge in Bulgaria, the Bebresh Viaduct is located on the Hemus Motorway 60 km east of Sofia. The bridge looks and feels massive from the many tall piers that rise 120 m from the valley floor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787273406982422,
+          49.17721484130587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europabrücke (Brenner)",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Europabruecke",
+        "comment": "Europabrücke, or Europe's bridge, is a 777-metre (2,549 ft) long bridge spanning the 657-metre (2,156 ft) Wipp valley just south of Innsbruck, Tirol, Austria. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "0,777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.796730041503906,
+          42.83689135855862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Nanjing_Yangtze_River_Bridge",
+        "name": "Nanjing Yangste Bridge",
+        "type": "bridge",
+        "comment": "The Nanjing Yangtze River Bridge is a double-decked road-rail truss bridge across the Yangtze River between Pukou and Xiaguan in Nanjing, China.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.401576995849608,
+          47.201843347946806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emsland test facility",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Emsland_test_facility",
+        "comment": "The Emsland Transrapid Test Facility is a testing site for Transrapid maglev trains in Emsland, Germany. The single track line runs between Dörpen andLathen. Turning loops are at each end. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "31,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73954772949219,
+          32.115148622612445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Mateo–Hayward Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/San_Mateo%E2%80%93Hayward_Bridge",
+        "comment": "The San Mateo–Hayward Bridge is a bridge crossing the U.S. state of California's San Francisco Bay, linking the San Francisco Peninsula with the East Bay.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "11,265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.351226806640624,
+          52.87617540157216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Mile Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Seven_Mile_Bridge",
+        "comment": "The Seven Mile Bridge is a famous bridge in the Florida Keys, in Monroe County, Florida, United States. It connects Knight's Key in the Middle Keys to Little Duck Key in the Lower Keys.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "10,887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34924316406251,
+          37.81900561386578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Third Mainland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Third_Mainland_Bridge",
+        "comment": "The Third Mainland Bridge is the longest of three bridges connecting Lagos Island, Lagos, Nigeria to the mainland, the other two being the Eko and Carter bridges. It is the longest bridge in Africa. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "11,8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.16561889648438,
+          24.70005337937338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangtze River bridges and tunnels",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_Yangtze_River_Tunnel_and_Bridge",
+        "comment": "The Shanghai Yangtze River Tunnel and Bridge is the collective name given to the bridge-tunnel complex across the south fork of the Yangtze River near the river mouth in Shanghai.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "25,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4040451049804688,
+          6.50840361671768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge",
+        "name": "Sunshine Skyway Bridge",
+        "type": "bridge",
+        "comment": "The Bob Graham Sunshine Skyway Bridge is a bridge spanning Tampa Bay, Florida, with a cable-stayed main span.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75460815429686,
+          31.448581865293658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/General_Rafael_Urdaneta_Bridge",
+        "name": "General Rafael Urdaneta Bridge",
+        "type": "bridge",
+        "comment": "The General Rafael Urdaneta Bridge is located at the outlet of Lake Maracaibo, in western Venezuela. The bridge connects Maracaibo with much of the rest of the country. It is named after General Rafael Urdaneta, a Venezuelan hero in the War of Independence.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6666259765625,
+          27.627573780299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanpu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Nanpu_Bridge",
+        "comment": "The Nanpu Bridge in Shanghai, China, sister bridge to the Yangpu Bridge, is one of the main bridges in Shanghai.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "0,76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57661437988281,
+          10.575234554014955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mackinac Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Mackinac_Bridge",
+        "comment": "The Mackinac Bridge is a suspension bridge spanning the Straits of Mackinac to connect the Upper and Lower peninsulas of the U.S. state of Michigan, opened in 1957.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50132179260252,
+          31.207516037787602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73068237304688,
+          45.816357959181346
         ]
       }
     }
