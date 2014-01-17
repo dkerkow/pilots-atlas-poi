@@ -42,7 +42,11 @@
       "properties": {
         "name": "Golden Gate Bridge",
         "url": "http://en.wikipedia.org/wiki/Golden_Gate_Bridge",
-        "type": "bridge"
+        "type": "bridge",
+        "comment": "The Golden Gate Bridge is a suspension bridge spanning the Golden Gate strait, the mile-wide, three-mile-long channel between San Francisco Bay and the Pacific Ocean.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,737"
       },
       "geometry": {
         "type": "Point",
@@ -1477,12 +1481,182 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Stonecutters Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Stonecutters_Bridge",
+        "comment": "Stonecutters Bridge is a high level cable-stayed bridge which spans the Rambler Channel in Hong Kong, connecting Nam Wan Kok, Tsing Yi island and Stonecutters Island. The bridge deck was completed on 7 April 2009, making this the second longest cable-stayed span in the world at the time of its completion, and opened to traffic on 20 December 2009",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,596"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
           135.0212860107422,
           34.61795213502554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Tatara_Bridge",
+        "name": "Tatara Bridge",
+        "type": "bridge",
+        "comment": "The Tatara Bridge is a cable-stayed bridge that is part of the Nishiseto Expressway, commonly known as the Shimanami Kaidō. The bridge has a center span of 890 metres. As of 2010 it has the fourth longest main span of any cable-stayed bridge after the Sutong Bridge.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.11842346191405,
+          22.325782524687973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pont de Normandie",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Pont_de_Normandie",
+        "comment": "The Pont de Normandie is a cable-stayed road bridge that spans the river Seine linking Le Havre to Honfleur in Normandy, northern France.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0615997314453,
+          34.259770269100535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Runyang_Bridge",
+        "name": "Runyang-Brücke",
+        "type": "bridge",
+        "comment": "The Runyang Bridge is a large bridge complex that crosses the Yangtze River in Jiangsu Province, China, downstream of Nanjing. The complex consists of two major bridges that link Zhenjiang on the south bank of the river and Yangzhou on the north.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.27294158935546875,
+          49.435984899682005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verrazano–Narrows Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Verrazano%E2%80%93Narrows_Bridge",
+        "comment": "The Verrazano–Narrows Bridge, in the U.S. state of New York, is a double-decked suspension bridge that connects the boroughs of Staten Island and Brooklyn in New York City at the Narrows, the reach connecting the relatively protected upper bay with the larger lower bay.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,298"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.35821533203125,
+          32.219772236460905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kocher Viaduct",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Kocher_Viaduct",
+        "comment": "On the Kocher Viaduct near Schwäbisch Hall in Germany, crosses the Kocher valley between Heilbronn and Nuremberg. With its maximum height of 185m above the valley bottom, it is the highest viaduct in Germany.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.04716491699219,
+          40.60613336268842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bebresh Viaduct",
+        "type": "bridge",
+        "url": "http://www.highestbridges.com/wiki/index.php?title=Bebresh_Viaduct",
+        "comment": "The highest bridge in Bulgaria, the Bebresh Viaduct is located on the Hemus Motorway 60 km east of Sofia. The bridge looks and feels massive from the many tall piers that rise 120 m from the valley floor."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.787273406982422,
+          49.17721484130587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europabrücke (Brenner)",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Europabruecke",
+        "comment": "Europabrücke, or Europe's bridge, is a 777-metre (2,549 ft) long bridge spanning the 657-metre (2,156 ft) Wipp valley just south of Innsbruck, Tirol, Austria. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "0,777"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.796730041503906,
+          42.83689135855862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Nanjing_Yangtze_River_Bridge",
+        "name": "Nanjing Yangste Bridge",
+        "type": "bridge",
+        "comment": "The Nanjing Yangtze River Bridge is a double-decked road-rail truss bridge across the Yangtze River between Pukou and Xiaguan in Nanjing, China.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.401576995849608,
+          47.201843347946806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.73954772949219,
+          32.115148622612445
         ]
       }
     }
