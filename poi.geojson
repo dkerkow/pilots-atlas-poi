@@ -1650,13 +1650,184 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Emsland test facility",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Emsland_test_facility",
+        "comment": "The Emsland Transrapid Test Facility is a testing site for Transrapid maglev trains in Emsland, Germany. The single track line runs between Dörpen andLathen. Turning loops are at each end. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "31,5"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           118.73954772949219,
           32.115148622612445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Mateo–Hayward Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/San_Mateo%E2%80%93Hayward_Bridge",
+        "comment": "The San Mateo–Hayward Bridge is a bridge crossing the U.S. state of California's San Francisco Bay, linking the San Francisco Peninsula with the East Bay.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "11,265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.351226806640624,
+          52.87617540157216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Mile Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Seven_Mile_Bridge",
+        "comment": "The Seven Mile Bridge is a famous bridge in the Florida Keys, in Monroe County, Florida, United States. It connects Knight's Key in the Middle Keys to Little Duck Key in the Lower Keys.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "10,887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34924316406251,
+          37.81900561386578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Third Mainland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Third_Mainland_Bridge",
+        "comment": "The Third Mainland Bridge is the longest of three bridges connecting Lagos Island, Lagos, Nigeria to the mainland, the other two being the Eko and Carter bridges. It is the longest bridge in Africa. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "11,8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.16561889648438,
+          24.70005337937338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yangtze River bridges and tunnels",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Shanghai_Yangtze_River_Tunnel_and_Bridge",
+        "comment": "The Shanghai Yangtze River Tunnel and Bridge is the collective name given to the bridge-tunnel complex across the south fork of the Yangtze River near the river mouth in Shanghai.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "25,5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4040451049804688,
+          6.50840361671768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/Sunshine_Skyway_Bridge",
+        "name": "Sunshine Skyway Bridge",
+        "type": "bridge",
+        "comment": "The Bob Graham Sunshine Skyway Bridge is a bridge spanning Tampa Bay, Florida, with a cable-stayed main span.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.75460815429686,
+          31.448581865293658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "url": "http://en.wikipedia.org/wiki/General_Rafael_Urdaneta_Bridge",
+        "name": "General Rafael Urdaneta Bridge",
+        "type": "bridge",
+        "comment": "The General Rafael Urdaneta Bridge is located at the outlet of Lake Maracaibo, in western Venezuela. The bridge connects Maracaibo with much of the rest of the country. It is named after General Rafael Urdaneta, a Venezuelan hero in the War of Independence.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6666259765625,
+          27.627573780299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nanpu Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Nanpu_Bridge",
+        "comment": "The Nanpu Bridge in Shanghai, China, sister bridge to the Yangpu Bridge, is one of the main bridges in Shanghai.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "0,76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.57661437988281,
+          10.575234554014955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mackinac Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Mackinac_Bridge",
+        "comment": "The Mackinac Bridge is a suspension bridge spanning the Straits of Mackinac to connect the Upper and Lower peninsulas of the U.S. state of Michigan, opened in 1957.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "8,038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.50132179260252,
+          31.207516037787602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.73068237304688,
+          45.816357959181346
         ]
       }
     }
