@@ -1821,13 +1821,32 @@
     {
       "type": "Feature",
       "properties": {
-        "name": ""
+        "name": "Fatih Sultan Mehmet Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Fatih_Sultan_Mehmet_Bridge",
+        "comment": "The Fatih Sultan Mehmet Bridge, also known as the Second Bosphorus Bridge, is a bridge in Istanbul, Turkey spanning the Bosphorusstrait. When completed in 1988, it was the 5th longest suspension bridge span in the world; today it is the 19th.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,510"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.73068237304688,
           45.816357959181346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.060211181640625,
+          41.09073722135943
         ]
       }
     }
