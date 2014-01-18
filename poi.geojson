@@ -1085,6 +1085,63 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bang Na Expressway",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Bang_Na_Expressway",
+        "comment": "The Bang Na Expressway is a 55 km long six-lane elevated highway in Thailand.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "55,0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3961181640625,
+          30.622550184776674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Manchac Swamp Brücke",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Manchac_Swamp_bridge",
+        "comment": "The Manchac Swamp Bridge is a twin concrete trestle bridge in the US state of Louisiana. With a total length of 22.80 miles (36.69 km) it is one of the longest bridges in the world over water.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "36,710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.77621459960938,
+          13.604612895598308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hangzhou Bay Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Hangzhou_Bay_Bridge",
+        "comment": "Hangzhou Bay Bridge is a highway bridge with a cable-stayed portion across Hangzhou Bay in the eastern coastal region of China.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "35,673"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.40924072265625,
+          30.308874460573502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Donghai Bridge",
         "type": "bridge",
         "url": "http://en.wikipedia.org/wiki/Donghai_Bridge",
@@ -1286,6 +1343,25 @@
         "coordinates": [
           126.5460205078125,
           37.42470717168675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Öland Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/%C3%96land_Bridge",
+        "comment": "The Öland Bridge is a road bridge connecting Kalmar on mainland Sweden to Färjestaden on the island of Öland to its east. At 6,072 meters long, it is one of the longest in all of Europe.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "6,072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.97259521484375,
+          55.338517844256366
         ]
       }
     },
@@ -1878,106 +1954,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zhongxian Huyu Expressway Bridge",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Zhongxian_Huyu_Expressway_Bridge",
-        "comment": "The Zhongxian Huyu Expressway Bridge is a cable-stayed bridge which crosses the Yangtze River in Zhong County of Chongqing, China. Completed in 2010.",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "2,174"
+        "name": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           113.21754455566406,
           29.54598251181797
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bang Na Expressway",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Bang_Na_Expressway",
-        "comment": "The Bang Na Expressway, officially Burapha Withi Expressway, is a 55 km long six-lane elevated highway inThailand.",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "55,0"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          108.00796508789062,
-          30.23652704486517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Manchac Swamp bridge",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Manchac_Swamp_bridge",
-        "comment": "The Manchac Swamp Bridge is a twin concrete trestle bridge in the US state of Louisiana. With a total length of 36.69 km it is one of the longest bridges in the world over water.",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "36,710"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          100.67047119140624,
-          13.655995545325037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Great Belt Fixed Link",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Great_Belt_Bridge",
-        "comment": "The Great Belt Fixed Link runs between the Danish islands of Zealand and Funen. It consists of a road suspension bridge and railway tunnel between Zealand and the island Sprogø, and a box girder bridge between Sprogø and Funen.",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "6,790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.40374755859375,
-          30.2934606306162
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Jiujiang Fuyin Expressway Bridge",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Jiujiang_Fuyin_Expressway_Bridge",
-        "comment": "The Jiujiang Fuyin Expressway Bridge (Chinese: 九江长江公路大桥) is a cable-stayed bridge over the Yangtze River. The bridge form part of the G70 Fuzhou–Yinchuan Expressway carring six lanes of traffic between Huangmei, Huanggang, in Hubei province and Jiujiang, in Jiangxi province.",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "0,818 (span)"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.983581542968748,
-          55.34164183013326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.90713500976561,
-          29.729799972602226
         ]
       }
     }
