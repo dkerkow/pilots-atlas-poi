@@ -1849,6 +1849,155 @@
           41.09073722135943
         ]
       }
+<<<<<<< HEAD
+=======
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sydney Harbour Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Sydney_Harbour_Bridge",
+        "comment": "The Sydney Harbour Bridge is a steel through arch bridge across Sydney Harbour that carries rail, vehicular, bicycle and pedestrian traffic between the Sydney central business district (CBD) and the North Shore. ",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.74613189697263,
+          -36.83017242546416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Brooklyn_Bridge",
+        "comment": "The Brooklyn Bridge is a bridge in New York City and is one of the oldest suspension bridges in the United States. Completed in 1883, it connects the boroughs of Manhattan and Brooklyn by spanning the East River.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.21058464050293,
+          -33.852240981841774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Russky Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Russky_Bridge",
+        "comment": "The Russky Bridge is a bridge built across the Eastern Bosphorus strait, to serve the Asia-Pacific Economic Cooperation that took place in Vladivostok in 2012. The bridge connects the mainland part of the city (Nazimov peninsula) with Russky Island, where the main activities of the summit took place.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "3,100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9972972869873,
+          40.70647378685649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akashi Kaikyō Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Akashi-Kaikyo_Bridge",
+        "comment": "The Akashi Kaikyō Bride, also known as the Pearl Bridge, links the city of Kobe on the mainland of Honshu to Iwaya on Awaji Island, in Japan. It crosses the busy Akashi Strait.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "3,911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99517822265625,
+          31.784216884487385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonecutters Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Stonecutters_Bridge",
+        "comment": "Stonecutters Bridge is a high level cable-stayed bridge which spans the Rambler Channel in Hong Kong, connecting Nam Wan Kok, Tsing Yi island and Stonecutters Island. The bridge deck was completed on 7 April 2009.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,596"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.02197265625,
+          34.6241677899049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yi Sun-sin Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Yi_Sun-sin_Bridge",
+        "comment": "Yi Sun-sin Bridge  is a suspension bridge under construction in the south coast of Korea as of April 2010. This bridge is one part of The Approach Road to Yeosu Industrial Complex. It will be the world's fourth longest suspension bridge in terms of its main span length of 1,545 m when it is opened to the public in 2012.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "1,545"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.9073486328125,
+          43.06387139555526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jingyue Bridge",
+        "type": "bridge",
+        "url": "http://en.wikipedia.org/wiki/Jingyue_Bridge",
+        "comment": "The Jingyue Bridge is a large cable-stayed bridge in Jianli County, Hubei. The Bridge opened in June 2010. The bridge crosses the Yangtze River and is one of the 10 largest cable-stayed bridges in the world. The bridge was tolled a few months after opening.",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "5,419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.70439147949219,
+          34.90423452835513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.21754455566406,
+          29.54598251181797
+        ]
+      }
+>>>>>>> parent of b30f543... new bridges, 6.0, 17.01.2014
     }
   ]
 }
