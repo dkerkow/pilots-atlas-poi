@@ -1170,8 +1170,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.6845703125,
-          31.353636941500987
+          100.36834716796875,
+          5.250965258186287
         ]
       }
     },
@@ -1189,8 +1189,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.35633087158203,
-          5.254725948409637
+          100.3546142578125,
+          5.354888654498652
         ]
       }
     },
@@ -1208,8 +1208,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.35049438476561,
-          5.357623243645222
+          -43.174209594726555,
+          -22.869215987192728
         ]
       }
     },
@@ -1227,8 +1227,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -43.17146301269531,
-          -22.8673179600756
+          -63.77288818359375,
+          46.200745411283094
         ]
       }
     },
@@ -1246,27 +1246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.77563476562499,
-          46.19219023536159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Great Belt Fixed Link",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Great_Belt_Fixed_Link",
-        "comment": "The Great Belt Fixed Link runs between the Danish islands of Zealand and Funen. It consists of a road suspension bridge and railway tunnel between Zealand and the Island Sprogø, and a box girder bridge between Sprogø and Funen. ",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "6,790"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          126.5460205078125,
-          37.42470717168675
+          126.551513671875,
+          37.421435292172944
         ]
       }
     },
@@ -1284,8 +1265,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.41357421875,
-          56.67584735015159
+          -73.9218521118164,
+          40.78262115769851
         ]
       }
     },
@@ -1303,8 +1284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.92288208007812,
-          40.783271058668454
+          3.7147521972656254,
+          51.645294049305406
         ]
       }
     },
@@ -1322,8 +1303,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.7078857421874996,
-          51.63719775332166
+          -105.7605743408203,
+          23.533930366581856
         ]
       }
     },
@@ -1832,8 +1813,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.705078125,
-          34.90191160667207
+          127.70439147949219,
+          34.90113728484303
         ]
       }
     },
