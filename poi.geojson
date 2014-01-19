@@ -1983,6 +1983,214 @@
           -36.455393385897416
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bratsk Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bratsk_Dam",
+        "comment": "The Bratsk Hydroelectric Power Station is a concrete gravity dam on the Angara River and adjacent hydroelectric power station. It is the second level of the Angara River hydroelectric station cascade in Irkutsk Oblast, Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.78421020507812,
+          56.285487559811465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aswan Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Aswan_High_Dam",
+        "comment": "The Aswan Dam is an embankment dam situated across the Nile River in Aswan, Egypt. Since the 1960s, the name commonly refers to the High Dam. Construction of the High Dam became a key objective of the Egyptian Government following the Egyptian Revolution of 1952, as the ability to control floods, provide water for irrigation, and generate hydroelectricity were seen as pivotal to Egypt's industrialization. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.881221771240234,
+          23.970097353159655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Akosombo Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Akosombo_Dam",
+        "comment": "The Akosombo Dam, also known as the Akosombo Hydroelectric Project, is a hydroelectric dam on the Volta River in southeastern Ghana in the Akosombo gorge and part of the Volta River Authority. The construction of the dam flooded part of the Volta River Basin, and the subsequent creation of Lake Volta. Lake Volta is the world's largest man-made lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05922317504882813,
+          6.30002785279244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daniel-Johnson Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Daniel-Johnson_Dam",
+        "comment": "The Daniel-Johnson Dam, formerly known as Manic-5, is a multiple-arch buttress dam on the Manicouagan River that creates the annular Manicouagan Reservoir. The dam is composed of 14 buttresses and 13 arches and is 214 km (133 mi) north of Baie-Comeau in Quebec, Canada. The dam was constructed between 1959 and 1970."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.72360229492188,
+          50.648589721709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guri Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Guri_Dam",
+        "comment": "The Guri Dam is a concrete gravity and embankment dam in Bolívar State, Venezuela on the Caroni River. Its official name is Central Hidroeléctrica Simón Bolívar (previously named Central Hidroeléctrica Raúl Leoni from 1978 to 2000). It is 7,426 metres long and 162 m high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.00178527832031,
+          7.765593153304712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "W. A. C. Bennett Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/W._A._C._Bennett_Dam",
+        "comment": "The W. A. C. Bennett Dam is a large hydroelectric dam on the Peace River in northern British Columbia, Canada. At 183 m (660 ft) high, it is one of the world’s highest earth fill dams. Construction of the dam began in 1961 and culminated in 1968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20127105712892,
+          56.01834293384084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krasnoyarsk Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Krasnoyarsk_Dam",
+        "comment": "The Krasnoyarsk Dam is a 124-metre (407 ft) high concrete gravity dam located on the Yenisey River about 30 kilometres (19 mi) upstream from Krasnoyarsk in Divnogorsk, Russia. It was constructed from 1956 to 1972."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.29408264160156,
+          55.935933272017024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zeya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zeya_Hydroelectric_Station",
+        "comment": "The Zeya Dam is a concrete gravity dam on the Zeya River, located by the town of Zeya, Amur Oblast, Russia, north of the Chinese border."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.30596542358397,
+          53.76971772850359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sanmenxia Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sanmenxia_Dam",
+        "comment": "The Sanmenxia Dam is a concrete gravity dam on the middle-reaches of the Yellow River near Sanmenxia on the border Shanxi and Henan Province, China. The dam is multi-purpose and was constructed for flood and ice control along with irrigation, hydroelectric power production and navigation. Construction began in 1957."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.34420394897461,
+          34.82986845427644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Robert-Bourassa generating station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Robert-Bourassa_generating_station",
+        "comment": "The Robert-Bourassa generating station (formerly known as La Grande-2) is a hydroelectric power station on the La Grande River that is part of Hydro-Québec's James Bay Project in Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.44829177856444,
+          53.78899020544746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Grande-3 generating station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/La_Grande-3_generating_station",
+        "comment": "The La Grande-3 or LG-3 is a hydroelectric dam on the La Grande River in northern Quebec, part of Hydro-Québec's James Bay Project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.96719741821288,
+          53.72840426276383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ust-Ilimsk Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ust-Ilimsk_Dam",
+        "comment": "The Ust-Ilimsk Hydroelectric Power Station (Ust-Ilimsk HPS) is a concrete gravity dam on the Angara River and adjacent hydroelectric power station. It is located near Ust-Ilimsk, Irkutsk Oblast in Russia and is the third and last dam on the Angara cascades"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.69573211669922,
+          57.968787511258206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boguchany Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Boguchany_Dam",
+        "comment": "The Boguchany Dam is a large hydroelectric dam on the Angara River in Kodinsk, Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.14817810058594,
+          58.695048767943376
+        ]
+      }
     }
   ]
 }
