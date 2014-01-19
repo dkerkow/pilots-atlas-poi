@@ -1964,6 +1964,25 @@
           -16.52151793383651
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Kosciuszko",
+        "type": "peak",
+        "url": "http://en.wikipedia.org/wiki/Mount_Kosciuszko",
+        "comment": "",
+        "date": "",
+        "elevation (meter)": "",
+        "length (Km)": "2,228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.26358795166016,
+          -36.455393385897416
+        ]
+      }
     }
   ]
 }
