@@ -1132,8 +1132,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.58065795898438,
-          30.38235321766959
+          50.294036865234375,
+          26.205966407341577
         ]
       }
     },
@@ -1151,27 +1151,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.3009033203125,
-          26.194876675795218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Shanghai Yangtze River Tunnel and Bridge",
-        "type": "bridge",
-        "url": "http://en.wikipedia.org/wiki/Shanghai_Yangtze_River_Tunnel_and_Bridge",
-        "comment": "The Shanghai Yangtze River Tunnel starts on the south bank of the Yangtze at Wuhaogou, Pudong and ends in the south of Changxing Island. It is 8.9 kilometres (5.5 mi) in length, and has two stacked levels. ",
-        "date": "",
-        "elevation (meter)": "",
-        "length (Km)": "8,9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.0968017578125,
-          37.00693943418586
+          -76.08444213867188,
+          37.04202441635081
         ]
       }
     },
