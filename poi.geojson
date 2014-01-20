@@ -2191,6 +2191,407 @@
           58.695048767943376
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zhiguli Hydroelectric Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zhiguli_Hydroelectric_Station",
+        "comment": "The Zhiguli Hydroelectric Station or Zhigulyovskaya Hydroelectric Station, formerly known as Kuybyshev Hydroelectric Station is a large dam and hydroelectric station on the Volga River, located near Zhigulyovsk and Tolyatti in Samara Oblast of Russia. It is the sixth stage of the Volga-Kama Cascade of dams, and the second of them by installed power."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.48310852050781,
+          53.43899149184267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cahora Bassa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cahora_Bassa_Dam",
+        "comment": "The Cahora Bassa Dam is a dam in Mozambique. It is one of the three major dams on the Zambezi river system, the others being the Kariba and the Itezhi-Tezhi, the latter on the Kafue River, a tributary of the Zambezi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.704925537109375,
+          -15.586250001526237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serra da Mesa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Serra_da_Mesa_Dam",
+        "comment": "The Serra da Mesa Dam, once known as Sao Felix, is an embankment dam on the Tocantins River near Minaçu in Goiás, Brazil. The dam serves an associated hydroelectric power plant with a 1,275 MW installed capacity. The dam creates the largest reservoir by volume in Brazil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.30396652221679,
+          -13.834913013927844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brisay generating station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Brisay_generating_station",
+        "comment": "The Brisay hydroelectric power station is on the Caniapiscau Reservoir, in the Canadian province of Quebec. Part of Hydro-Québec's James Bay Project, the station can generate 469 MW and was commissioned in 1993. It generates electricity through the reservoir and dam system."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.51042556762695,
+          54.44199619696631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bukhtarma Hydroelectric Power Plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bukhtarma_Hydroelectric_Power_Plant",
+        "comment": "The Bukhtarma Hydroelectric Power Plant is a hydroelectric power plant on the Irtysh River 5 km upstream of the town of Serebryansk, in East Kazakhstan Province of Kazakhstan. \"Bukhtarma\" or \"Buqtyrma\" is a Kazakh word that can be translated as \"ambush; blocking\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.34606170654297,
+          49.66062784411677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Atatürk Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Atat%C3%BCrk_Dam",
+        "comment": "The Atatürk Dam, originally the Karababa Dam, is a zoned rock-fill dam with a central core on the Euphrates River on the border of Adıyaman Province and Şanlıurfa Province in the Southeastern Anatolia Region of Turkey. Built both to generate electricity and to irrigate the plains in the region, it was renamed in honour of Mustafa Kemal Atatürk (1881–1938), the founder of the Turkish Republic. The construction began in 1983 and was completed in 1990."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.32082748413085,
+          37.48289545694427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Irkutsk Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Irkutsk_Dam",
+        "comment": "The Irkutsk Hydroelectric Power Station is an earthen embankment dam on the Angara River with an adjacent hydroelectric power station. It is located adjacent to Irkutsk, Irkutsk Oblast in Russiaand is the first dam on the Angara cascades. Construction on the dam began in 1950, its reservoir began filling in 1956."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32548522949219,
+          52.24293795417479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tucuruí Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tucurui_Dam",
+        "comment": "The Tucuruí Dam (Tucuruí means \"grasshopper's water\") is a concrete gravity dam on the Tocantins River located on the Tucuruí County in the State of Pará, Brazil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.64344024658203,
+          -3.8313699273994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhnekamsk Hydroelectric Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lower_Kama_Hydroelectric_Station",
+        "comment": "The Nizhnekamsk Hydroelectric Station, also known as Lower Kama, is a dam and hydroelectric power station on the lower Kama River near Naberezhnye Chelny in Tatarstan, Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.27775573730469,
+          55.70274201066954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hoover Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hoover_Dam",
+        "comment": "Hoover Dam, once known as Boulder Dam, is a concrete arch-gravity dam in the Black Canyon of the Colorado River, on the border between the US states of Arizona and Nevada. It was constructed between 1931 and 1936 during the Great Depression and was dedicated on September 30, 1935, by President Franklin D. Roosevelt. Its construction was the result of a massive effort involving thousands of workers, and cost over one hundred lives."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.73812103271484,
+          36.01522680460955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roseires Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Roseires_Dam",
+        "comment": "The Roseires Dam is a dam on the Blue Nile at Ad Damazin, just upstream of the town of Er Roseires, in Sudan. It consists of a concrete buttress dam 1 km wide with a maximum height of 68 m, and an earth dam on either side. The earth dam on the eastern bank is 4 km long, and that on the western bank is 8.5 km long. The reservoir is about 290 km2."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.38720703125,
+          11.802498169367498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vilyuy Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vilyuy_Dam",
+        "comment": "The Vilyuy Dam is a large dam and hydroelectric power station on the Vilyuy River in Chernyshevsky, Sakha Republic, Russia. The dam was built between 1964 and 1967 to provide power for diamond mines in the area, and was the first such major structure in the world to be built on permafrost. Vilyuy is reported to have the coldest operating conditions of any hydroelectric plant in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.4725341796875,
+          63.03223697388023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glen Canyon Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Glen_Canyon_Dam",
+        "comment": "Glen Canyon Dam is a concrete arch dam on the Colorado River in northern Arizona in the United States, near the town of Page. The dam was built to provide hydroelectricity and flow regulation from the upper Colorado River Basin to the lower. Its reservoir is called Lake Powell, and is the second largest artificial lake in the country, extending upriver well into Utah."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.48307800292967,
+          36.93685808104818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenney Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kenney_Dam",
+        "comment": "The Kenney Dam is a rock-filled hydroelectric dam on the Nechako River in northwestern British Columbia, built in the early 1950s. The impoundment of water behind the dam forms the Nechako Reservoir, which is also commonly known as the Oosta Lake Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9497413635254,
+          53.57976724250279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sobradinho Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sobradinho_Dam",
+        "comment": "The Sobradinho Dam is a large hydroelectric dam built on the São Francisco River in Sobradinho, in the state of Bahia of Brazil. Completed in 1982, the dam generates power by utilizing six 175 MW Francis turbine-generators, totalling the installed capacity to 1,050 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.826568603515625,
+          -9.425354494067046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churchill Falls Generating Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Churchill_Falls_Generating_Station",
+        "comment": "The Churchill Falls Generating Station is a hydroelectric power station located on the Churchill River in Newfoundland and Labrador. The underground power station can generate 5,428 MW, which makes it the second-largest in Canada, after the Robert-Bourassa generating station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.97338867187501,
+          53.53418628920915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson River Hydroelectric Project",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nelson_River_Hydroelectric_Project",
+        "comment": "The Nelson River Hydroelectric Project refers to the construction of a series of dams and hydroelectric power plants on the Nelson River in Northern Manitoba, Canada. The project began to take shape in the late 1950s, with the planning and construction of the Kelsey dam and hydroelectric power station, and later was expanded to include the diversion of the upper Churchill River into the Nelson River and the transformation of Lake Winnipeg, the world's 11th largest freshwater lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5378952026367,
+          56.04088372324089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Keban Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Keban_Dam",
+        "comment": "The Keban Dam is a hydroelectric dam on the Euphrates, located in the Elazıg Province of Turkey. The dam was the first and uppermost of several large-scale dams to be built on the Euphrates by Turkey."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.757877349853516,
+          38.80600530900049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Volga Hydroelectric Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Volga_Hydroelectric_Station",
+        "comment": "The Volga Hydroelectric Station or Volga GES also known as the 22nd Congress of the CPSU Stalingrad/Volgograd Hydroelectric Power Station, is the largest hydroelectric station in Europe and is the last of the Volga-Kama Cascade of dams, before the Volga River flows into the Caspian Sea. Today, it is operated by the electricity company RusHydro."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.671783447265625,
+          48.826757381274426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sayano–Shushenskaya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sayano%E2%80%93Shushenskaya_Dam",
+        "comment": "The Sayano–Shushenskaya Dam is located on the Yenisei River, near Sayanogorsk in Khakassia, Russia. It is the largest power plant in Russia and the sixth-largest hydroelectric plant in the world, by average power generation. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.37020111083984,
+          52.82641675600601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Garrison Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Garrison_Dam",
+        "comment": "Garrison Dam is an earth-fill embankment dam on the Missouri River in central North Dakota. At over two miles (3 km) in length, it is the fifth-largest earthen dam in the world, constructed by the U.S. Army Corps of Engineers from 1947-53. The reservoir impounded by the dam is Lake Sakakawea, which extends to Williston and the confluence with the Yellowstone River, near the Montana border."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.41891479492186,
+          47.50096732311069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kossou Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kossou_Dam",
+        "comment": "The Kossou Power Station is a hydroelectric power plant of the Bandama River in Côte d'Ivoire. It has a power generating capacity of 176 MW enough to power over 118,000 homes. The dam created the largest lake in Côte d'Ivoire, Lake Kossou."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.473423004150391,
+          7.030023817125638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iroquois Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Iroquois_Dam",
+        "comment": "The Iroquois Dam is a water reservoir located at Iroquois, Ontario, upstream of the power dam between Cornwall, Ontario, and Massena, New York. It regulates the outflow of water from Lake Ontario into the St. Lawrence Seaway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.30424118041992,
+          44.83529988242199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oahe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oahe_Dam",
+        "comment": "The Oahe Dam is a large dam along the Missouri River, just north of Pierre, South Dakota in the United States. It creates Lake Oahe, the fourth largest artificial reservoir in the United States, which stretches 231 miles (372 km) up the course of the Missouri to Bismarck, North Dakota. The dam's powerplant provides electricity for much of the north-central United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.40061950683594,
+          44.45240850891029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Itaipu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Itaipu_Dam",
+        "comment": "The Itaipu Dam is a hydroelectric dam on the Parana River located on the border between Brazil and Paraguay. The name \"Itaipu\" was taken from an isle that existed near the construction site. In the Guarani language, Itaipu means \"the sounding stone\".",
+        "date": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.59535598754882,
+          -25.40792666389685
+        ]
+      }
     }
   ]
 }
