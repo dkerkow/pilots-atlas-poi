@@ -3168,6 +3168,54 @@
           12.37387411573052
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kihansi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kihansi_Dam",
+        "comment": "Kihansi Dam is a hydroelectric dam located on the Kihansi River at the end of the Kihansi Gorge before the convergence with the Ulanga River in Tanzania approximately 450 km southwest of Dar Es Salaam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.851521492004395,
+          -8.574825663308607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mtera Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mtera_Dam",
+        "comment": "Mtera Dam is a hydroelectric dam in Tanzania. The dam is located midway between Iringa and Dodoma on the border between the Iringa Region and the Dodoma Region. The travel time from Dodoma is about three hours on a gravel road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.981941223144524,
+          -7.1387076427208696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gileppe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gileppe_Dam",
+        "comment": "The Gileppe Dam is an arch-gravity dam on the Gileppe river in Jalhay, Liège province, Wallonia, Belgium. It was built in the 1870s to supply water for the wool industry in nearby Verviers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.974674224853515,
+          50.589558046572016
+        ]
+      }
     }
   ]
 }
