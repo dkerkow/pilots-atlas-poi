@@ -2816,6 +2816,358 @@
           32.47696716011997
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Wahda Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Al_Wahda_Dam_(Morocco)",
+        "comment": "Al Wahda Dam, formerly known as M'Jaara Dam, is an embankment dam on the Ouergha River near M´Jaara in Sidi Kacem Province, Morocco. It was constructed for flood control, irrigation, water supply and hydroelectric power production. It is the second largest dam in Africa and the largest in Morocco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1984214782714835,
+          34.59845456167985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bin el Ouidane Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bin_el_Ouidane_Dam",
+        "comment": "The Bin el Ouidane Dam is an arch dam located 28 km (17 mi) south of Beni Mellal on the El Abid River in Azilal Province, Morocco. Constructed between 1949 and 1953, the purpose of the dam is hydroelectric power production and irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.463308334350586,
+          32.106351862282125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hassan I Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hassan_I_Dam",
+        "comment": "The Hassan I Dam is an embankment dam located 19 km (12 mi) northeast of Demnate on the Lakhdar River in Azilal Province, Morocco. Completed in 1986, the dam provides water for the irrigation of over 40,000 ha (98,842 acres) of farmland. The dam's hydroelectric power plant also generates 132 GWh on average annually."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.822595596313477,
+          31.81485472523014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Idriss I Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Idriss_I_Dam",
+        "comment": "The Idriss I Dam, also known as the Idriss the First Dam, is a gravity dam on the Inaouen River, a tributary of the Sebou River. The dam is situated in the Gharb Basin and is located 27 km (17 mi) northeast of Fes in Taounate Province, Morocco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.749355316162109,
+          34.161818161230386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohamed V Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mohamed_V_Dam",
+        "comment": "The Mohamed V Dam is an arch-gravity dam located 35 km (22 mi) south of Zaio on the Moulouya River in Oujda-Angad Province, Morocco. The primary purpose of the dam is supplying water for the irrigation of 70,000 ha (172,974 acres) downstream."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.939014434814453,
+          34.66328747015145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massingir Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Massingir_Dam",
+        "comment": "Massingir Dam is a dam on the Rio dos Elefantes (Olifants or Lepelle), Gaza Province, Mozambique. It is named after the town of Massingir, in Massingir District. The Shingwedzi River flows close to the northeastern side of the reservoir and joins the Rio dos Elefantes about 12 km downstream from the dam wall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.14496612548828,
+          -23.87579191610102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakolori Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bakolori_Dam",
+        "comment": "The Bakolori Dam is in Sokoto State in the Northwest of Nigeria, completed in 1978 and its reservoir filled by 1981. It is a major reservoir on the Sokoto River, a tributary of the Rima River, which in turn feeds the Niger River. Water from the dam supplies the Bakolori Irrigation Project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.183929443359375,
+          12.513676410124795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Challawa Gorge Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Challawa_Gorge_Dam",
+        "comment": "The Challawa Gorge Dam is in Karaye Local Government of Kano State in the Northeast of Nigeria, about 90 km southwest of Kano city. It is a major reservoir on the Challawa River, a tributary of the Kano River, which is the main tributary of the Hadejia River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.024139404296875,
+          11.718805396980619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dadin Kowa Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dadin_Kowa_Dam",
+        "comment": "The Dadin Kowa Dam is in Yamaltu local government area of Gombe State in the north east of Nigeria. The dam is located about 35 kilometers to the east of Gombe town, and provides drinking water for the town. The dam was completed by the federal government in 1984, with the goal of providing irrigation and electricity for the planned Gongola sugar plantation project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.480369567871094,
+          10.321336928754953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goronyo Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goronyo_Dam",
+        "comment": "The Goronyo Dam impounds the Rima River in Goronyo local government area of Sokoto State in the north of Nigeria. It was completed in 1984 and commissioned in 1992. The dam is a sand-fill structure with a height of 21 m and a total length of 12.5 km"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.884208679199219,
+          13.531523563574419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gusau Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gusau_Dam",
+        "comment": "The Gusau Dam holds a reservoir on the Sokoto River just upstream from Gusau, capital of Zamfara State in Nigeria. It supplies water to the city and neighboring communities. In 2006, the dam collapsed, killing 40 people and destroying 500 homes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.669216156005859,
+          12.146745814539685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ikere Gorge Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ikere_Gorge_Dam",
+        "comment": "The Ikere Gorge Dam is a major earth-fill dam in Iseyin local government area of Oyo State in the south west of Nigeria on the Ogun River. Reservoir capacity is 690 million m3."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7377548217773438,
+          8.178188247073487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jibiya Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Jibiya_Dam",
+        "comment": "The Jibiya Dam is in Jibiya local government area of Katsina State in the north of Nigeria. It is an earth-fill structure with a geomembrane liner, with a height of 23.5 m and a total length of 3,660 m, and has a capacity of 142 million m3. The dam was designed in 1987 and completed in 1989, and was built to support irrigation and water supply."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2516632080078125,
+          13.068442303664513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jebba Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Jebba_Dam",
+        "comment": "The Jebba Power Station is a hydroelectric power plant of the Niger River in Nigeria. It has a power generating capacity of 540 MW enough to power over 364,000 homes The hydroelectric power plant was completed in 1984."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8113250732421875,
+          9.13565612647911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kafin Zaki Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kafin_Zaki_Dam",
+        "comment": "The Kafin Zaki Dam is a controversial project to build a reservoir on the Jama'are River (also called the Bunga River in its upper reaches) in Bauchi State in the Northeast of Nigeria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.569091796875,
+          10.75641359764197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kainji Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kainji_Dam",
+        "comment": "Kainji Dam is a dam across the Niger River in western Nigeria. Construction of the dam began in 1964 and was completed in 1968. The total cost was estimated at US$209 million, with one-quarter of this amount used to resettle people displaced by the construction of the dam and its reservoir, Kainji Lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.612884521484375,
+          9.865363624344024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiri Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kiri_Dam",
+        "comment": "The Kiri Dam is in Guyuk local government area of Adamawa State in the north east of Nigeria, damming the Gongola River. It is a 1.2 km long, 20 m high zoned embankment with an internal clay blanket.The dam was mainly completed in 1982."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.016639709472656,
+          9.680629819648257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Obudu Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Obudu_Dam",
+        "comment": "The Obudu Dam is in Obudu local government area of Cross River State in the south east of Nigeria. It is an earth-fill structure with a height of 15 m and a total crest length of 425 m, and has a capacity of 4.2 million m3. The dam is located within the Obudu crystalline basement plateau, a low-lying undulating region of low seismic activity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.174270629882812,
+          6.632552256643177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oyan River Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oyan_Dam",
+        "comment": "The Oyan River Dam is in Abeokuta North local government area of Ogun State in the West of Nigeria, about 20 km north west of the state capital Abeokuta. The dam crosses the Oyan River, a tributary of the Ogun River. It is used primarily to supply raw water to Lagos and Abeokuta, but has potential for use in irrigation and power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2557296752929688,
+          7.259285791683918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiroro Hydroelectric Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shiroro_Dam",
+        "comment": "The Shiroro Power Station is a hydroelectric power plant of the Kaduna River in Nigeria. It has a power generating capacity of 600 MW enough to power over 404,000 homes. The Shiroro Power Station began operating in 1990."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83521270751953,
+          9.972231983720546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiga Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tiga_Dam",
+        "comment": "The Tiga Dam is in Kano State in the Northeast of Nigeria, constructed in 1971-1974. It is a major reservoir on the Kano River, the main tributary of the Hadejia River"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41552734375,
+          11.426859869469936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zobe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zobe_Dam",
+        "comment": "The Zobe Dam is in Dutsin-Ma local government area of Katsina State in the north of Nigeria. It is an earth-fill structure with a height of 19 m and a total length of 2,750 m. The dam has a storage capacity of 179 Mca and irrigation potential of 8,000 hectares. Although the dam was completed in 1983, as of 2010 it was still not being used for water supply to Katsina city, for local irrigation or for power generation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.468557357788086,
+          12.37387411573052
+        ]
+      }
     }
   ]
 }
