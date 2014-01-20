@@ -2592,6 +2592,230 @@
           -25.40792666389685
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lagdo Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lagdo_Reservoir",
+        "comment": "Lagdo Reservoir is a lake located in the Northern Province of Cameroon. The lake covers an area of 586 km²."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.68896484375,
+          9.059549757085835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Nzilo",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nzilo_Dam",
+        "comment": "Lake Nzilo (formerly Lake Delcommune, also Lac del Commune) is an artificial lake formed by a hydroelectric dam on the Lualaba River in the Katanga Province of the Democratic Republic of the Congo. It is about 10 miles (16 km) northeast of the major copper mining area of Kolwezi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.462832450866696,
+          -10.499711597925959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilgel Gibe I Power Station",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gilgel_Gibe_I_Dam",
+        "comment": "The Gilgel Gibe I Power Station is a hydroelectric power plant of the Omo River in Ethiopia. It has a power generating capacity of 184 MW, enough to power over 123,200 homes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.32313156127929,
+          7.836343410465251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilgel Gibe III Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gilgel_Gibe_III_Dam",
+        "comment": "The Gilgel Gibe III Dam is an under construction 243 m high roller-compacted concrete dam with an associated hydroelectric power plant on the Omo river in Ethiopia. Once completed it would be the largest hydroelectric plant in Africa with a power output of about 1870 Megawatt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.29515075683594,
+          6.836272139404461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Ethiopian Renaissance Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grand_Ethiopian_Renaissance_Dam",
+        "comment": "The Grand Ethiopian Renaissance Dam, formerly known as the Millennium Dam and sometimes referred to as Hidase Dam, is an under-construction gravity dam on the Blue Nile River in Ethiopia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0819206237793,
+          11.216458828343004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aswan Low Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Aswan_Low_Dam",
+        "comment": "The Aswan Low Dam or Old Aswan Dam is a gravity masonry buttress dam on the Nile River in Aswan, Egypt. The dam was built at the former first cataract of the Nile, and is located about 1000 km up-river and 690 km (direct distance) south-southeast of Cairo. When initially constructed between 1899 and 1902, nothing of its scale had ever been attempted; on completion, it was the largest masonry dam in the world."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.87006378173828,
+          24.035490064954963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kpong Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kpong_Dam",
+        "comment": "The Kpong Dam is a hydroelectric power generating dam in Ghana completed in 1982. It has a capacity of 148 MW with all four units running, though the total nameplate capacity is 160 MW. It is owned and operated by Volta River Authority. The dam was introduced to supplement power production from Akosombo Dam, for the smelting of aluminium at VALCO in Tema."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12505531311035156,
+          6.121182651564837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nairobi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nairobi_Dam",
+        "comment": "The Nairobi Dam is an embankment dam on the Nairobi River in Nairobi, Kenya."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.80243968963623,
+          -1.3183288648326117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katse Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Katse_Dam",
+        "comment": "The Katse Dam, a concrete arch dam on the Malibamat'so River in Lesotho, is Africa's second largest dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.506946563720703,
+          -29.336393312942008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tekezé Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tekeze_Dam",
+        "comment": "Tekezé Dam is a double-curvature arch dam in the Tigray region of northern Ethiopia on the Tekezé River, a Nile tributary that flows through one of the deepest canyons in the world. At the time of completion, the 188 metres (617 ft) high dam is said to be Africa's largest arch dam. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.74603271484375,
+          13.346196914181355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mohale Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mohale_Dam",
+        "comment": "Mohale Dam is a rock-fill dam in Lesotho. It is part of the Lesotho Highlands Water Project, which will eventually include 5 large dams in remote rural areas of Lesotho and South Africa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.09624671936035,
+          -29.45805858025969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mare aux Vacoas",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mare_aux_Vacoas",
+        "comment": "Mare aux Vacoas is the largest reservoir in Mauritius. It is located in Plaines Wilhems, in the southwest of the island, to the south of the town of Curepipe.It has a capacity of 25.89 Mm3 and provide water to the upper Plaines Wilhems and to Moka."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.505531311035156,
+          -20.381319838424943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allal al Fassi Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Allal_al_Fassi_Dam",
+        "comment": "The Allal al Fassi Dam is an embankment dam located 18 km (11 mi) northeast of Sefrou on the Sebou River in the Fès-Boulemane region of Morocco. Completed in 1991, the dam provides water for irrigation and hydroelectric power production."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.67742919921875,
+          33.929687627576605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Al Massira Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Al_Massira_Dam",
+        "comment": "The Al Massira Dam is a gravity dam located 70 km (43 mi) south of Settat on the Oum Er-Rbia River in Settat Province, Morocco. Completed in 1979, the dam provides water for the irrigation of over 100,000 ha (247,105 acres) of farmland in the Doukkala region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.636270523071289,
+          32.47696716011997
+        ]
+      }
     }
   ]
 }
