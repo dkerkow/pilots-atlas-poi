@@ -4928,6 +4928,230 @@
           46.44542749723387
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iron Gates",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Iron_Gates",
+        "comment": "The Iron Gates is a gorge on the River Danube. It forms part of the boundary between Romania and Serbia. In the broad sense it encompasses a route of 134 km (83 mi); in the narrow sense it only encompasses the last barrier on this route, just beyond the Romanian city of Orşova, that contains two hydroelectric dams, with two power stations, Iron Gate I Hydroelectric Power Station and Iron Gate II Hydroelectric Power Station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.528495788574215,
+          44.67158278684375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Râuşor",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Rauso",
+        "comment": "Rausor is a rock-fill water dam build in 1987 in the far north of Argeș County, Romania. It has a wall height of 120 m (390 ft) and a total volume of 60 million m³."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.062732696533203,
+          45.39398997323945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vidra Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vidra_Lake",
+        "comment": "Vidra Lake is a storage reservoir, located in the Parâng Mountains group, on the Lotru River, in Romania. It has an area of 12.40 km² and a volume of 340 million m³"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.719482421875,
+          45.42616642457245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Vidraru",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vidraru",
+        "comment": "Lake Vidraru is an artificial lake in Romania. It was created in 1965 by the construction of the Vidraru Dam on the Argeş River."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.625167846679688,
+          45.38470721669896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chirkey Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Chirkey_Reservoir",
+        "comment": "The Chirkey Dam is an arch dam on the Sulak River in Dagestan, Russia. The main purpose of the dam is hydroelectric power production and it supports a 1,000 MW power station. Construction on the dam began in 1964, the first generator was operational by 1974, the last in 1976 while the project was complete in 1978. It is the tallest arch dam in Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.87110900878906,
+          42.97689747639612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chogray Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Chogray_Reservoir",
+        "comment": "The Chogray Reservoir is an artificial reservoir on the East Manych River on the border of Stavropol Krai and Kalmykia in southern Russia. The reservoir, 49 km long, was constructed in 1969-1973, primarily to satisfy the demands of local irrigated farming. Its area is 185 square km, volume 0.7 cubic km."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.65667724609375,
+          45.48228066163947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gorky Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gorky_Reservoir",
+        "comment": "Gorky Reservoir is an artificial lake in the central part of the Volga River formed by a hydroelectric dam of Gorky Hydroelectric Station built in 1955 between the towns of Gorodets and Zavolzhye and filled in 1955 – 1957. It spans for 430 km from the dam of Rybinsk to the dam of Gorodets through Yaroslavl, Kostroma, Ivanovoand Nizhny Novgorod oblasts of Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.22021484375,
+          56.9569571133683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivankovo Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ivankovo_Reservoir",
+        "comment": "Ivankovo Reservoir or Ivankovskoye Reservoir, informally known as the Moscow Sea, is the uppermost reservoir on theVolga River, in Moscow and Tver Oblasts of Russia, located some 130 km north of Moscow. The dam of the reservoir is situated in the town of Dubna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0623779296875,
+          56.76025123334257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kama Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kama_Reservoir",
+        "comment": "The Kama Reservoir, also known as the Perm Reservoir, is a reservoir formed by the dam of the Kama Hydroelectric Station near Perm (constructed in 1954-1956). The Kama Reservoir has a surface area of 1,915 km² and a water volume of 12,2 cubic km. Its length along the Kama is 272 km, major width - up to 30 km, average depth - 6,3 m (with maximum depth equaling 30 m)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.239013671875,
+          58.876263846088314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuybyshev Reservoir",
+        "type": "dam",
+        "url": "Kuybyshev Reservoir",
+        "comment": "Kuybyshev Reservoir or Kuybyshevskoye Reservoir, sometimes called Samara Reservoir and informally called Kuybyshev Sea, is a reservoir of the middle Volga and lower Kama in the Chuvash Republic, Mari El Republic, Republic of Tatarstan, Samara Oblast andUlyanovsk Oblast, Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.966064453125,
+          53.89786522246521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nizhnekamsk Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nizhnekamsk_Reservoir",
+        "comment": "Lower Kama Reservoir or Nizhnekamsk Reservoir is the lowest reservoir from the Kama Riverhydroelectric cascade. It is situated in Tatarstan, Udmurtia, Bashkortostan and Perm Krai, Russian Federation. The reservoir was filled in 1978-81 up to 62 m above sea level after the construction of dam of theLower Kama Hydroelectric Station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.965087890625,
+          55.866064809810105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rybinsk Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Rybinsk_Reservoir",
+        "comment": "Rybinsk Reservoir, informally called the Rybinsk Sea, is a water reservoir on the Volga River and itstributaries Sheksna and Mologa, formed by Rybinsk Hydroelectric Station dam, located on the territories of Tver, Vologda, and Yaroslavl Oblasts. At the time of its construction, it was the largest man-made body of water on Earth."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.397216796875,
+          58.459228692360625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saratov Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Saratov_Reservoir",
+        "comment": "Saratov Reservoir is an artificial lake in the lower part of the Volga River in Russia formed by the dam of the Saratov Hydroelectric Station situated in the city of Balakovo. Filling of the reservoir started in 1967. The uppermost point of the reservoir is situated in Tolyatti, it stretches through Samara Oblast and Saratov Oblast. The city of Samara and the Samara Bend are situated on the reservoir. The namesake city of Saratov is actually situated downstream the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5101318359375,
+          52.884048623975254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheksna Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sheksna_Reservoir",
+        "comment": "The Sheknsna Reservoir or the Sheksninskoe Reservoir is a water reservoir on Sheksna River and Lake Beloye, in Belozersky, Vashkinsky, Kirillovsky, andSheksninsky Districts of Vologda Oblast in Russia. The reservoir is formed by the dam of the Sheksna Hydropower Plant, located in the urban-type settlement of Sheksna."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.529052734375,
+          59.66496634395803
+        ]
+      }
     }
   ]
 }
