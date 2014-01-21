@@ -3216,6 +3216,342 @@
           50.589558046572016
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kölnbrein Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/K%C3%B6lnbrein_Dam",
+        "comment": "The Kölnbrein Dam is an arch dam in the Hohe Tauern range within Carinthia, Austria. It was constructed between 1971 and 1979 and at 200 m (656 ft) high, it is the tallest dam in Austria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.33963394165039,
+          47.07924072878733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Batak Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Batak_Reservoir",
+        "comment": "The Batak Reservoir is located in the Rhodope Mountains and is the third largest in Bulgaria. It attracts many tourists and fishermen, and the resort Tsigov Chark was built on its shore. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.197216033935547,
+          41.99330848783547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belmeken Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Belmeken_Reservoir",
+        "comment": "The Belmeken dam is situated in the Rila Mountains and is the highest dam lake on the Balkan peninsula. There is a pumped-storage plant built on the lake (PSP). It is part of the cascade Belmeken-Chaira-Sestrimo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.811750411987305,
+          42.17345467750951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dospat Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dospat_Reservoir",
+        "comment": "Dospat Reservoir is situated in the western part of the Rhodope Mountains, Bulgaria. The reservoir (formed by a dam in the town of Dospat, 82 km west of Smolyan) stretches nearly 19 km (12 mi) northwest to the city of Sarnitsa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.14992332458496,
+          41.657202596378895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dushantsi Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dushantsi_Reservoir",
+        "comment": "The Dushantsi dam is settled in the Balkan Mountains, Bulgaria. The dam wall can be easily reached by car, driving along the old road to Burgas. The area around the dam is used for outgoings, picnics, water sports and fishing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.287080764770508,
+          42.69688271746016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golyam Beglik",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Golyam_Beglik",
+        "comment": "Golyam Beglik is a dam near the central parts of the Rhodope Mountains, Bulgaria. It was formerly officially called the Vasil Kolarov reservoir in honour of Vasil Kolarov, a communist political leader of the People's Republic of Bulgaria."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.130096435546875,
+          41.81469805126507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iskar Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Iskar_Reservoir",
+        "comment": "The Iskar Reservoir is the largest reservoir in Bulgaria. It is situated on the Iskar River and provides 2/3 of the water for the capital Sofia, also being used for producing hydroelectricity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.53717803955078,
+          42.51525892643154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ivaylovgrad Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ivaylovgrad_Reservoir",
+        "comment": "The Ivailovgrad lake is one of the largest water reservoirs in Bulgaria. It is located in the eastern Rhodope Mountains. The area is rich in natural phenomenon of caverns and historical monuments, and offers nature lovers opportunities for water sports, bird watching, recreation and mountain hiking."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9661865234375,
+          41.632893839650656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kardzhali Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kardzhali_Reservoir",
+        "comment": "The Kardzhali Reservoir is located near Kardzhali town in Kardzhali Province, Bulgaria. The reservoir was recently seeded artificially with European perch. The fish was taken from the Ovcharitsa reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.338592529296875,
+          41.63212401946806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koprinka Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Koprinka_Reservoir",
+        "comment": "Koprinka is a reservoir and dam in the Rose Valley, central Bulgaria. Its construction began after 1944 and was finished in 1956. It was built on the Tundzha river at 7 km to the west of the city of Kazanlak near the village of Koprinka. It is situated at 300 m to the south of the main sub-Balkan road between the capital Sofia and Burgas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.31970977783203,
+          42.61280146045554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Mandrensko",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Mandrensko",
+        "comment": "Lake Mandrensko or Lake Mandra is the southernmost of the Burgas Lakes, located in the immediate proximity of the Black Sea and close to Burgas. Being 8 km long and 1.3 km wide at maximum, as well as having an area of 38.84 km², it was a brackish natural lake until 1963, when it was turned into a reservoir with the construction of a dam to secure fresh water for the large Neftochim Burgas oil refinery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.44796752929687,
+          42.44550137477766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ognyanovo Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ognyanovo_Reservoir",
+        "comment": "Ognyanovo reservoir, also called Lake Ognyanovo, or Ognyanova, is a reservoir in Bulgaria near Sofia. Holding 32 million cubic metres of water, it is an important reservoir in Bulgaria. It impounds the waters of the Lesnovska river."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.74248504638672,
+          42.61703348809168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogosta Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ogosta_Reservoir",
+        "comment": "Ogosta is a lake in the North West of Bulgaria. It is the second largest artificial lake in Bulgaria and The Balkan Peninsula and one of the biggest in Europe. It collects the waters of the rivers Ogosta, Burzia and Zlatitsa and is located about 600 meters to the south-west of the border of Montana city and 60 m. above the level of the city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.212738037109375,
+          43.39681577710739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pasarel Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Pasarel_Reservoir",
+        "comment": "The Pasarel dam and reservoir is located 20 km to the southeast of Sofia, Bulgaria at an altitude of 700 m. The dam is situated roughly half way between the Iskar Reservoir and Lake Pancharevo near the village of Dolni Pasarel."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4708309173584,
+          42.5503614569476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiroka Polyana",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Shiroka_Polyana",
+        "comment": "Shiroka Polyana is a reservoir lake situated in the Western Rhodopes mountains in Bulgaria. The lake is situated 30 km south of Batak, on the road to Dospat. It is located 1500 meters above sea level amidst a forest of old pine trees."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.15369987487793,
+          41.764493895173274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Studen Kladenets",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Studen_Kladenets",
+        "comment": "The Studen Kladenets Reservoir is the second largest reservoir in Bulgaria. It is situated on the river Arda, and is created behind the Studen Kladenets dam, 30 km south-east of the town of Kardzhali. There are another two dams of the Arda - Kardzhali Dam to the west (upstream) and Ivaylovgrad Dam to the east (downstream)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.64037322998047,
+          41.6200623030133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ticha Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ticha_Reservoir",
+        "comment": "Ticha Reservoir is a reservoir in Varbitsa Municipality, Shumen Province, northeastern Bulgaria, located to the north and northeast of the town of Varbitsa. It is one of the largest lakes of Bulgaria. The Ticha Dam is located in the northeastern part of the reservoir, in the southeastern part of Kotel Mountain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.786212921142578,
+          43.07152120860966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Topolnitsa Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Topolnitsa_Reservoir",
+        "comment": "Topolnitsa is a reservoir in the Sredna Gora mountain, western Bulgaria. Its construction began in 1948 and was finished in 1963. It was built on the Topolnitsa river just south of the village of Muhovo. The main purpose of the Topolnitsa Dam is to irrigate agricultural lands in the Upper Thracian Plain. The walls of the dam are concrete and are 78 m high."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.001264572143555,
+          42.41965489682774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsonevo Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tsonevo_Reservoir",
+        "comment": "Tsonevo Reservoir is a reservoir located in the valley of the Luda Kamchia River, 1 km from the village of Tsonevo. The reservoir ranks third in size in Bulgaria with water service of 17300 decameters. Its old name was Georgi Traikov. It has warm waters, and is used for water supply and irrigation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.411575317382812,
+          43.02887073765287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vacha Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vacha_Reservoir",
+        "comment": "Vacha Reservoir (before 1999: Antonivanovtsi Reservoir) is a body of water associated with a dam in Devin Municipality, south Bulgaria. It is part of the Vacha Cascade Joint Implementation Project involving three more dams and four power stations. The two other existing dams on the Vacha River are the Kamak Dam and the Tsankov Dam; the Krichim Dam is in the implementation stage."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4460391998291,
+          41.94065887682253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yovkovtsi",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Yovkovtsi",
+        "comment": "The Yovkovtsi Reservoir is situated in northeastern Bulgaria, 5 kilometres away of the town of Elena. It was built 20 years ago on the Veselina River. The reservoir is located in the territory of Elena municipality, and supplies water to Veliko Tarnovo, Gorna Oryahovitsa, Lyaskovets, Strazhitsa, Zlataritsa, Elena, Gabrovo and Dryanovo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.79289436340332,
+          42.92095204443029
+        ]
+      }
     }
   ]
 }
