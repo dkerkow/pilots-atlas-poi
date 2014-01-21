@@ -5248,6 +5248,214 @@
           48.786961645533275
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aldeadávila Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Aldeadavila_Dam",
+        "comment": "Aldeadávila Dam is a concrete arch-gravity dam on the Douro River (also known as the Duero River) on the border between Spain and Portugal.[6] The Douro River forms the international boundary between Portugal and Spain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.685523986816406,
+          41.21185064786496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El Atazar Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/El_Atazar_Dam",
+        "comment": "El Atazar Dam is an arch dam built near Madrid, Spain on the Lozoya River, very close to where the Lozoya joins the Jarama. It is the oldest dome dam in the world. The curved design of the dam is optimum for the narrow gorge in which it was built to retain water in the reservoir. Arch dams are thin and require less material to construct than other dam types."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47442626953125,
+          40.912863951261464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Talarn Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Talarn_Dam",
+        "comment": "Talarn Dam is a concrete gravity dam on the Noguera Pallaresa River, a tributary of the Ebro River, north of Tremp near Lleida in Catalonia, Spain. The dam is 206 meters long and 82 meters high and supplies a hydro-electric station with an output of 300,000 kW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.914440155029297,
+          42.180069820728484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Dixence Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grande_Dixence_Dam",
+        "comment": "The Grande Dixence Dam is a concrete gravity dam on the Dixence River at the head of the Val d'Hérens in the canton of Valais in Switzerland. At 285 m (935 ft) high, it is the tallest gravity dam in the world and is part of the Cleuson-Dixence Complex. With the primary purpose of hydroelectric power generation, the dam fuels four power stations, totaling the installed capacity to 2,069 MW, generating approximately 2,000 GWh annually, enough to power 400,000 Swiss households."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4039268493652335,
+          46.08085173686787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sihlsee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sihlsee",
+        "comment": "The Sihlsee (in English sometimes called Lake Sihl) is an artificial lake near Einsiedeln in the Canton of Schwyz, Switzerland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.782539367675781,
+          47.121541375281744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Contra Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Verzasca_Dam",
+        "comment": "The Contra Dam, commonly known as the Verzasca Dam and the Locarno Dam,[2] is an arch dam on the Verzasca River in the Val Verzasca of Ticino, Switzerland. The dam creates Lago di Vogorno 2 km (1.2 mi) upstream of Lake Maggiore and supports the 105 MW Verzasca Hydroelectric Power Station hydroelectric power station. It was constructed between 1961 and 1965 and starting shortly after its reservoir was filled, a series of earthquakes related to its water load occurred until 1971."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.847770690917969,
+          46.196705633074274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Van",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Van",
+        "comment": "Lake Van is the largest lake in Turkey, located in the far east of the country in Van district. It is a saline soda lake, receiving water from numerous small streams that descend from the surrounding mountains. Lake Van is one of the world's largest endorheic lakes (having no outlet)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9345703125,
+          38.6275996886131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colliford Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Colliford_Lake",
+        "comment": "Colliford Lake is a reservoir on Bodmin Moor, Cornwall, England, United Kingdom. Covering more than 900 acres (3.6 km2),[1] it is the largest lake in Cornwall."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.578208923339844,
+          50.52084875616663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Drift Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Drift_Reservoir",
+        "comment": "Drift Reservoir is a reservoir in Cornwall, England, UK, just north of Drift village, southwest of Penzance. The reservoir is approximately a mile (1.6 km) long. It has a large dam at its southern end, and at the northern end, splits into a northwestern and a northeastern arm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.590496063232422,
+          50.10698316257593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Derwent Reservoir (North East England)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Derwent_Reservoir,_North_East_England",
+        "comment": "Derwent Reservoir is a reservoir on the River Derwent, on the border between County Durham and Northumberland, in England. It is west of Consett.It is one of the biggest inland waters in England. It is 3.5 miles (5.6 km) long) and covers an area of 4 km² and has a maximum depth of 100 ft (30m) and when full, holds 11,000 million gallons (50,000,000m³)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9795989990234373,
+          54.86534603925404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand Coulee Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grand_Coulee_Dam",
+        "comment": "Grand Coulee Dam is a gravity dam on the Columbia River in the U.S. state of Washington built to produce hydroelectric power and provide irrigation. It was constructed between 1933 and 1942, originally with two power plants. A third power station was completed in 1974 to increase its energy production. It is the largest electric power-producing facility in the United States."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.98193359375,
+          47.95613403600978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wilson Lake (Alabama)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wilson_Lake_(Alabama)",
+        "comment": "Wilson Lake is the reservoir created by Wilson Dam as part of the Tennessee Valley Authority. The lake stretches from Wilson Dam to Wheeler Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62557983398438,
+          34.8006952268869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guntersville Lake",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Guntersville_Lake",
+        "comment": "Guntersville Lake (generally referred to locally as Lake Guntersville) is located in north Alabama between Bridgeport and Guntersville. Created by Guntersville Dam along the Tennessee River, it stretches 75 miles (121 km) from Guntersville Dam to Nickajack Dam. It is Alabama's largest lake at 69,000 acres (280 km²)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.39184951782227,
+          34.42418653952984
+        ]
+      }
     }
   ]
 }
