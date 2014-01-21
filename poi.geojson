@@ -3808,6 +3808,486 @@
           67.82557722244236
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eguzon Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Eguzon_Dam",
+        "comment": "The Eguzon dam is a hydroelectric dam on the Creuse River in central France. Construction took place from 1922 to 1926 and, at the time, was the largest dam in Europe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6124153137207031,
+          46.45488927067795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Étang de Soulcem",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Etang_de_Soulcem",
+        "comment": "Étang de Soulcem is a large artificial lake in the Pyrenees mountains in Ariège, France. It is at an elevation of 1570 m and is used for hydroelectricity, generating 62 GWh/year. The lake, which has a surface area of 0.91 km², was formed following the construction by Électricité de France of a dam across the northern end of the Vicdessos valley in 1980–1983."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5301895141601562,
+          42.69158365441993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glanum Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Glanum_Dam",
+        "comment": "The Glanum Dam, also known as the Vallon de Baume dam, was a Roman arch dam built to supply water to the Roman town of Glanum, the remains of which stand outside the town of Saint-Rémy-de-Provence in south-west France. It was situated south of Glanum, in a gorge that cut into the hills of Les Alpilles in the Roman province of Gallia Narbonensis. Dating to the 1st century BC, it was the earliest known dam of its kind."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828834533691406,
+          43.77171360595285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand'Maison Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grand%27Maison_Dam",
+        "comment": "The Grand'Maison Dam is an embankment dam on L'Eau d'Olle, a tributary of the Romanche River. It is located in Vaujany of Isère within the French Alps. The primary purpose of the dam is to serve as the upper reservoir for a pumped-storage hydroelectric scheme where Lac du Verney located lower in the valley is the lower reservoir. The dam was constructed between 1978 and 1985 with its power station being commissioned in 1987."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.117496490478516,
+          45.20598913526513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lac de Vouglans",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lac_de_Vouglans",
+        "comment": "The Lac de Vouglans is the reservoir of the hydro-electric power station at Vouglans on the River Ain in the département of Jura in the region of Franche-Comté in eastern France."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.666112899780273,
+          46.397561238251114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malpasset dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Malpasset_Dam",
+        "comment": "The Malpasset Dam was an arch dam on the Reyran River (fr), located approximately 7 km north of Fréjus on the French Riviera (Côte d'Azur), southern France, in the Var département. It collapsed on December 2, 1959, killing 423 people in the resulting flood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.757299900054932,
+          43.512238055748796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marèges Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Mareges_Dam",
+        "comment": "The Marèges Dam is a concrete arch dam on the Dordogne River. It is located 4 km (2 mi) southeast of Liginiac in Corrèze department, France. It was constructed between 1932 and 1935 by the Railway Company du Midi. Its primary purpose is the generation of hydroelectricity and the original power station contained four Francis turbine-generators."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.364678382873535,
+          45.39188038971205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roselend Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Roselend_Dam",
+        "comment": "The Roselend Dam is an arch-buttress dam located 5 km (3 mi) east of Beaufort in the Savoie department of the Rhône-Alpes region in south-eastern France. It is located just west and below the Cormet de Roselend mountain pass. The dam was designed by Coyne et Bellier and construction began in 1955."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.631278991699219,
+          45.69251155945152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inguri Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Inguri_Dam",
+        "comment": "The Inguri Dam is a hydroelectric dam on the Inguri River in Georgia. Currently it is the world's second highest concrete arch dam with a height of 271.5 metres. It is located north of the town Jvari. It is part of the Inguri hydroelectric power station (HES) which is partially located in Abkhazia, the separatist region of Georgia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.032318115234375,
+          42.76075128720096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schluchsee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Schluchsee",
+        "comment": "The Schluchsee is a reservoir lake in the district of Breisgau-Hochschwarzwald, southeast of the Titisee in the Black Forest near Freiburg im Breisgau, Germany."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.184471130371094,
+          47.80093347589691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großer Brombachsee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grosser_Brombachsee",
+        "comment": "Großer Brombachsee is a reservoir in the Franconian Lake District."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.963325500488281,
+          49.12691530777389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forggensee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Forggensee",
+        "comment": "Forggensee is a lake located north of Füssen in the district of Ostallgäu in Bavaria, Germany. One of many lakes in the region around Hohenschwangau and Neuschwanstein castles, Forggensee is the fifth-largest lake in Bavaria, with a surface area of 15.2 km². The River Lech flows through it. Forggensee is known primarily as a tourist destination for aquatic sports and recreation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.745830535888672,
+          47.65370974998756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sylvenstein Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sylvenstein_Dam",
+        "comment": "Sylvenstein Dam is an earthen embankment dam in the Isar valley, in the alpine part of Upper Bavaria, Germany which impounds the Sylvenstein Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.550321578979492,
+          47.58625231278527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spremberg Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Spremberg_Reservoir",
+        "comment": "Spremberg Dam and its associated reservoir (Spremberger Stausee) lie between Cottbus and Spremberg and impound the River Spree. Together with the surrounding countryside they make up the protected landscape also known as the Talsperre Spremberg. The dam itself is made of earth and is the only one in the state of Brandenburg that counts as a \"large dam\"."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3975830078125,
+          51.65754227497492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edersee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Edersee",
+        "comment": "The Edersee is a 11.8 km² reservoir in Waldeck-Frankenberg, Hesse, Germany with 199.3 million m³ of storage space. It is the 2nd largest reservoir in terms of area, and the 3rd largest in terms of volume, in Germany. It is located on the Fulda Tributary of Eder behind the 48m high Edersee Dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.058055877685547,
+          51.183324447610715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ecker Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ecker_Dam",
+        "comment": "The Ecker Dam is a dam near Bad Harzburg in the Harz mountains of Germany that went into service in 1942. It impounds primarily the waters of the river Ecker."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.578374862670898,
+          51.840603564148466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grane Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Grane_Dam",
+        "comment": "The Grane Dam is a dam above the village of Astfeld/Herzog-Juliushütte in the borough of Langelsheim in the Lower Saxon part of the Harz mountains."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.377359390258787,
+          51.912137971910596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Innerste Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Innerste_Dam",
+        "comment": "The Innerste Dam is a dam on the Innerste river, which lies near Langelsheim and Wolfshagen in the Harz mountains. It was built between 1963 and 1966 and belongs to the Harzwasserwerke. Its purposes are the supply of drinking water, flood protection."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.297794342041016,
+          51.91483815222654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oder Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oder_Dam",
+        "comment": "The Oder Dam is a dam in the Harz mountains of Germany. It lies above Bad Lauterberg in the district of Osterode am Harz in Lower Saxony and impounds the river Oder. The dam went into service in 1934 after taking 3 years to build."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.50567626953125,
+          51.645613610279156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oderteich",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oderteich",
+        "comment": "The Oderteich is an historic reservoir about seven kilometres northeast of Sankt Andreasberg in the Upper Harz in central Germany. It was built by miners from St. Andreasberg in the years 1715 to 1722 and, today, is an important component of the water supply network known as the Upper Harz Water Regale."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.537433624267578,
+          51.764679358618295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oker Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Oker_Dam",
+        "comment": "The Oker Dam is a dam in the Harz mountains in Lower Saxony, Germany. It is fed by the River Oker."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.435338020324707,
+          51.83034097263629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Söse Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Soese_Dam",
+        "comment": "The Söse Dam is a dam in the Lower Saxon part of the Harz mountains near Osterode in the German state of Lower Saxony. It was the first modern dam and reservoir complex to be built in the Harz and was constructed by the Harzwasserwerke between 1928 and 1931."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.310497283935547,
+          51.73877593617874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wendebach Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wendebach_Dam",
+        "comment": "Wendebach Reservoir is an artificial lake with a surrounding recreation park in the municipality of Gleichen and Friedland, Lower Saxony, Germany, about 8 km south of Göttingen. It is a popular summer outing goal for residents and students of Göttingen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.94537353515625,
+          51.46994258730289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biggesee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Biggesee",
+        "comment": "The Biggesee or Bigge Reservoir is a reservoir in Germany. It lies in the southern part of the Sauerland between Olpe and Attendorn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.88715362548828,
+          51.11095877067944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschbach Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Eschbach_Dam",
+        "comment": "The Eschbach Dam was the first dam to be built in Germany for drinking water supply. It is located in Remscheid, North Rhine-Westphalia, Germany. With its opening in 1891, this pioneer work of hydraulic engineering was a milestone in the economic development of the city of Remscheid."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.231492996215819,
+          51.15964579543792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hengsteysee",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Hengsteysee",
+        "comment": "The Hengsteysee (Lake Hengstey) is a reservoir on the Ruhr river between the cities of Hagen, Dortmund and Herdecke, North Rhine-Westphalia, Germany. It was built in 1929 and is one of five reservoirs on the Ruhr."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450768947601318,
+          51.40042387583563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rur Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Rur_Dam",
+        "comment": "The Rur Dam is a 77.2 metre high dam located in the southwestern part of the state of North Rhine-Westphalia in Germany. It was built in 1939 and impounds the River Rur to form the Rur Reservoir (Rurstausee or Rursee) which is 7.83 km² in area. It lies within the districts of Aachen and Düren."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.387863159179687,
+          50.608953004071815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Möhne Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Moehne_Reservoir",
+        "comment": "The Möhne Reservoir is an artificial lake in North Rhine-Westphalia, some 45 km east of Dortmund. The lake is formed by the damming of two rivers, Möhne and Heve, and with its four basins stores as much as 135 million cubic metres of water. The dam was built between 1908 and 1913 to help control floods, regulate water levels on the Ruhr river downstream, and generate hydropower. Today, the lake is also a tourist attraction."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.058986663818358,
+          51.489720752362466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sorpe Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sorpe",
+        "comment": "The Sorpe Dam is a dam near the small town of Sundern in the German district of Hochsauerland in North Rhine-Westphalia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.968006134033203,
+          51.351522260290565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urft Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Urft_Dam",
+        "comment": "The Urft Dam is a 58.50 metre high dam in the southwestern part of the state of North Rhine-Westphalia in Germany. It was built in 1905. The dam impounds the River Urft in the district of Euskirchen to create the Urft Reservoir, 2.16 km² in area. The reservoir is also called the Urftsee (Lake Urft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.420736312866211,
+          50.60426843751864
+        ]
+      }
     }
   ]
 }
