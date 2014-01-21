@@ -4608,6 +4608,86 @@
           47.65451917328043
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blöndulón",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Bloendulon",
+        "comment": "At 57 km², Blöndulón is one of Iceland's largest lakes. It was created in 1984-1991 as a reservoir for the Blönduvirkjun power plant, and has a greatest depth of 39 m. It is situated near Kjölur highland road in the Highlands of Iceland. The hot springs of Hveravellir are situated some 25 km to the south."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.658660888671875,
+          65.1890815710325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kárahnjúkar Hydropower Plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Karahnjukar_Hydropower_Project",
+        "comment": "Kárahnjúkar Hydropower Plant is a hydroelectric power plant in eastern Iceland designed to produce 4,600 GWh annually for Alcoa's Fjardaál aluminum smelter 75 kilometres (47 mi) to the east in Reyðarfjörður. With the installed capacity of 690 MW, the plant is the largest hydroelectric power plant in Iceland. The project, named after nearby Mount Kárahnjúkur,."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.794219970703123,
+          64.93576176010376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sigöldulón",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sigoeldulon",
+        "comment": "The lake Sigöldulón is a reservoir in Iceland, also known as Krókslón. Situated in the south of the country, not far from Landmannalaugar, it is one of the country's 20 largest lakes at 14 km². Both the lake and the nearby power station take their names from a tuff ridge at about 600 m above sea-level where the river Tungnaá once passed through a canyon. Its waters now flow in tubes into the power station, constructed between 1973 and 1977."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.06402587890625,
+          64.15104762218814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pórisvatn",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Porisvatn",
+        "comment": "Pórisvatn, is the largest lake of Iceland, situated at the south end of Sprengisandur highland road within the highlands of Iceland. It is a reservoir of a surface about 88 km² and uses the energy of the river Þjórsá, which comes down from the glacier Hofsjökull. Here in the south, it is exploited in a power station. Like a lot of other Icelandic lakes, which are mostly glacial lakes or volcanic lakes, it normally has a stark green color."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.9019775390625,
+          64.239820464092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ardnacrusha power plant",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Ardnacrusha_power_plant",
+        "comment": "Ardnacrusha power plant is a hydroelectric power station which was originally referred to as The Shannon Scheme. It is located near Ardnacrusha within County Clare approximately 1.5 miles (2.4 km) from the Limerick border. It is Ireland's largest river hydroelectric scheme and is operated on a purpose built canal connected to the River Shannon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61276626586914,
+          52.706035119366526
+        ]
+      }
     }
   ]
 }
