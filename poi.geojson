@@ -4500,7 +4500,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "http://en.wikipedia.org/wiki/Rappbode_Dam",
+        "name": "Wendefurth Dam",
         "type": "dam",
         "url": "http://en.wikipedia.org/wiki/Wendefurth_Dam",
         "comment": "The Wendefurth Dam near Wendefurth in the Harz is one of the dams downstream of the Rappbode Dam, that provides flood protection as well as impounding the River Bode to provide the lower reservoir for the Wendefurth Power Station. In addition it is a bathing lake and also supports fish farming."
@@ -4686,6 +4686,246 @@
         "coordinates": [
           -8.61276626586914,
           52.706035119366526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punt dal Gall Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Punt_dal_Gall_Dam",
+        "comment": "Punt dal Gall is an arch dam located in Livigno valley, 10.5 km northwest of the Italian town of Livigno. It lies at the border between the Italian region of Lombardy and the Swiss canton of Grisons."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.197372436523438,
+          46.623623325191645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vajont Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Vajont_Dam",
+        "comment": "The Vajont Dam is a disused dam, completed in 1959 in the valley of the Vajont River under Monte Toc, 100 km north of Venice, Italy. A 1963 (9 October) landslide caused the overtopping of the dam and around 2,000 deaths."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.327775955200195,
+          46.267358872462594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elektrėnai Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Elektrenai_Reservoir",
+        "comment": "Elektrėnai Reservoir, located south of the city of Elektrėnai, Lithuania, is the third-biggest artificial lake in Lithuania. It was created in 1961 by damming the Strėva River. It supplies cooling water to the 1,800 MW Elektrėnai Power Plant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.66156005859375,
+          54.762868484839984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaunas Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kaunas_Reservoir",
+        "comment": "Kaunas Reservoir is the largest Lithuanian artificial lake, created in 1959 by damming the Nemunas River near Kaunas and Rumšiškės. It occupies 63.5 square kilometers, which is about 0.1% of the total territory of Lithuania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.174728393554688,
+          54.85329172116292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lkjelsvatneto",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lokjelsvatnet",
+        "comment": "Løkjelsvatnet is a regulated lake in the municipality of Etne in Hordaland county, Norway. Water from the lake falls 400 vertical metres in tunnels and pipelines to Hardeland hydroelectric power station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.134490966796874,
+          59.65941717985081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Solina",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Jezioro_Solinskie",
+        "comment": "Lake Solina is an artificial lake in the Bieszczady Mountains region, more precisely in Lesko County of the Subcarpathian Voivodship of Poland. The lake was created in 1968 by the construction of the Solina Dam on the San River. It has an area of 22 square kilometres (8 sq mi) and contains 472 million cubic meters of water, making it Poland's largest artificial lake."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.456741333007812,
+          49.38237278700955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Włocławek Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Wloclawek_Reservoir",
+        "comment": "Wloclawek Reservoir is a water body in the Middle Vistula flow, appeared in 1970 after building of the dam in Włocławek. The length of the reservoir is 58 km from Włocławek to Płock, average width is 1.2 km. It is biggest reservoir in Poland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.427261352539062,
+          52.60971939156648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Czorsztyn",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Czorsztyn",
+        "comment": "Lake Czorsztyn is a man-made reservoir on the Dunajec river, southern Poland, between the Pieniny and the Gorce Mountains. It owes its existence to a dam, which is located in the village of Niedzica."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.267715454101562,
+          49.44044993310386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goczalkowice Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Goczalkowice_Reservoir",
+        "comment": "Goczalkowice Reservoir is an artificial water reservoir in the Silesian Voivodeship in Poland created with a dam on the Vistula in 1956. The area of the reservoir is 32 square kilometres and its capacity is 168 million m³. It is around 75 kilometres west of Kraków."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.86627197265625,
+          49.92602987536322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zalew Sulejowski",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zalew_Sulejowski",
+        "comment": "The Zalew Sulejowski is an artificial lake, a reservoir, in the Lodz Voivodeship built in the years 1969-1974 on the territories of three gmin: Tomaszów, Piotrków and Wolbórz. The aim of this reservoir was to supply a fresh drinking water to the city of Łódź and Tomaszów Mazowiecki. At full capacity the reservoir contains up to 95 million m3 of water and has an average depth of 3.3m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.92816925048828,
+          51.43217991061229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zegrze Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zegrze_Reservoir",
+        "comment": "The Zegrze Reservoir is a man-made reservoir in Poland, located just north of Warsaw, on the lower course of the Narewriver. It is formed by a dam constructed in 1963 with a hydroelectric complex producing 20 Megawatts of energy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.035385131835934,
+          52.45203420966137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alqueva Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Alqueva_Dam",
+        "comment": "The Alqueva Dam is an arch dam and the center-piece of the Alqueva Mutlipurpose Project. It impounds the River Guadiana, on the border of Beja and Évora Districts in south of Portugal. The dam takes its name from the town of Alqueva to its right bank. It creates a large reservoir with an inter-annual regulation capacity from which water may be distributed throughout the region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4961090087890625,
+          38.198664050350295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Izvorul Muntelui",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Bicaz",
+        "comment": "The Lake Izvorul Muntelui, also known as Lake Bicaz, is the largest[1] artificial lake on the interior waters of Romania; it was created after the completion of a dam built on the Bistriţa River. The dam is located a few kilometers north of the town of Bicaz."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.082229614257812,
+          46.99570943771268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cerna River (Danube)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Cerna_River_(Danube)",
+        "comment": "The Cerna is a river in Romania. The Cerna has its source on the south-east side of the Godeanu Mountains and flows into the Danube near the town Orșova. The upper reach of the river is sometimes called Cernișoara. With a basin of 1433 square km and a length of 84 km, it carves an erosive tectonic valley with numerous gorges, quite deep sometimes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.40936279296875,
+          44.739173812053195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frumoasa, Harghita",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Frumoasa,_Harghita",
+        "comment": "Frumoasa  is a commune in Harghita County, Romania. It lies in the Székely Land, an ethno-cultural region in eastern Transylvania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.884475708007812,
+          46.44542749723387
         ]
       }
     }
