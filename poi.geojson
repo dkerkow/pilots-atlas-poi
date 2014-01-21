@@ -3552,6 +3552,262 @@
           42.92095204443029
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouris Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Kouris_Dam",
+        "comment": "Kouris is the largest dam of a network of 107 dams in Cyprus. It lies at an altitude of 250 m and collects the water delivered by the rivers Kouris, Limnatis and Kryos. Furthermore, water from Diarizos river is diverted to Kouris dam via a 14.5 km long connecting tunnel. It has an overall catchment area of 300 km2. The dam is located 15 km northwest of the city of Limassol and 6 km west of the village of Ypsonas."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.919158935546875,
+          34.72863401788879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Asprokremmos Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Asprokremmos_Dam",
+        "comment": "Asprokremmos dam is the second largest dam in Cyprus. It is built at an altitude of about 100 m above sea level and is located 16 km, (10 miles) east of the city of Pafos. Due to poor rainfall it is a rare event that the dam overflows. On 27th January 2012 the dam did overflow, for the first time since 2004."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.554636001586914,
+          34.72588288241783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evretou Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Evretou_Dam",
+        "comment": "Evretou Dam is the third largest dam in Cyprus and also the largest rock-fill dam on the island. It lies at an altitude of 165 m and is located about 15 km south of Polis Chrysochou, next to the abandoned village of Evretou. It is part of the Chrysochou Irrigation Project."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.47292518615723,
+          34.975649867430654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lipno Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lipno_Dam",
+        "comment": "The Lipno Dam is a dam and hydroelectric plant constructed along the Vltava River in the Czech Republic."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.234848022460938,
+          48.63608502230591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orlík Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Orl%C3%ADk_Dam",
+        "comment": "The Orlík Dam is the largest hydroelectric dam in the Czech Republic. It dams the Vltava River near the village of Solenice, which is near the town of Příbram. The structure is named after Orlík Castle, which is situated a few kilometers above the dam. The dam has four turbines with a nominal capacity of 91 MW each having a total capacity of 364 MW."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.181547164916992,
+          49.60653853271901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nové Mlýny reservoirs",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Nov%C3%A9_Ml%C3%BDny_reservoirs",
+        "comment": "The Nové Mlýny reservoirs are three reservoirs behind the Nové Mlýny Dam on the Dyje River in the Czech Republic. The lower reservoir, 1668 ha in area, is the Novomlynska Reservoir, the middle reservoir, 1031 ha, is the Věstonice Reservoir and the upper reservoir, 528 ha, is the Musovska Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.61098480224609,
+          48.91166975698412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Slezská Harta Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Slezsk%C3%A1_Harta_Dam",
+        "comment": "Slezská Harta Dam is a water reservoir and dam in the Nízký Jeseník mountain range, Moravian-Silesian Region, Czech Republic. The dam is built on upper course of the Moravice River. With the surface of 8.7 km² it is one of the largest reservoirs in the country. It was constructed in 1987-1998."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.581214904785156,
+          49.88888371396322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dalešice Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Dale%C5%A1ice_Dam",
+        "comment": "Dalešice Dam lies on the Jihlava River in the Czech Republic. It was built between 1970 and 1978 as a water source for the nearby Dukovany Nuclear Power Station. With nearby Mohelno Dam, it is part of the Dalešice pumped-storage plant."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.121749877929688,
+          49.125230287963035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Šance Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sance_Dam",
+        "comment": "Šance Dam also known as devils thumb, is a water reservoir and dam in the Moravian-Silesian Beskids mountain range, Moravian-Silesian Region, Czech Republic. The dam is built on upper course of the Ostravice River and has a surface of 3.37 km². It was constructed in 1964-1969 and began operating in 1974. Part of the village of Staré Hamry was demolished and subsequently flooded during the construction. The name of the dam comes from the hill that overlooks the dam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.416519165039062,
+          49.5110549753481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Těrlicko Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Terlicko_Dam",
+        "comment": "Těrlicko Dam is a water reservoir and dam in Těrlicko, Moravian-Silesian Region, Czech Republic. Its surface is 2.66 km², dam is built on a Stonávka River. It was constructed in 1955-1962."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.495311737060547,
+          49.752325391248036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brno Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Brno_Dam",
+        "comment": "The Brno Reservoir, previously known as the Kníničky Reservoir is a dam on the Svratka River right outside the city of Brno, Czech Republic. The construction of a levee on the 56th river kilometre of the Svratka River, together with flooding of a valley with the Kníničky village in, created the Brno Reservoir."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.51292324066162,
+          49.23306823189507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Žermanice Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zermanice_Dam",
+        "comment": "Žermanice Dam is a water reservoir and dam near Žermanice, Moravian-Silesian Region, Czech Republic. The dam is built on the Lučina River and has a surface of 2.48 km². It was constructed from 1951-1958."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.464412689208984,
+          49.70760838065483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seč Dam",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Sec_Dam",
+        "comment": "Seč dam is an artificial drinking water reservoir located in Pardubice Region, Czech Republic. It supplies cities of Pardubice and Chrudim and is also an important tourist destination located in protected area Železné hory."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.649080276489258,
+          49.83615565056365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Narva Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Narva_Reservoir",
+        "comment": "Narva Reservoir is a reservoir by Narva River, shared by Russia and Estonia. The reservoir was constructed during 1955-1956, during the Soviet times. It provides water to Narva Hydroelectric Station."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.18439483642578,
+          59.35157099861633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Kemijärvi",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lake_Kemij%C3%A4rvi",
+        "comment": "Kemijärvi is a lake in the town of Kemijärvi, Northern Finland."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.42290496826172,
+          66.722812672625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lokka Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Lokka_reservoir",
+        "comment": "The Lokka Reservoir, is a reservoir, upstream of the Luiro River in Sodankylä, in northern Finland. Depending on the water level, its area ranges from 216 to 418 km². The corresponding water levels above mean sea level are 240–245 meters. The filling of the reservoir Lokka began in 1967, and with this reservoir, the amount of water coming to the power plants inKemijoki could be regulated."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.739105224609375,
+          67.82557722244236
+        ]
+      }
     }
   ]
 }
