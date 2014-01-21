@@ -5152,6 +5152,102 @@
           59.66496634395803
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tsimlyansk Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Tsimlyansk_Reservoir",
+        "comment": "Tsimlyansk Reservoir or Tsimlyanskoye Reservoir is an artificial lake on the Don River in the territories of Rostov and Volgograd Oblasts. Completed in 1952, the reservoir is one of the largest in Russia, providing power and irrigation to the Rostov and Volgograd regions."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.9071044921875,
+          47.923704717745686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uglich Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Uglich_Reservoir",
+        "comment": "Uglich Reservoir or Uglichskoye Reservoir is an artificial lake in the upper part of the Volga River formed by the Uglich Hydroelectric Station dam. It was built in 1939 in the town of Uglich. It is located in Tver and Yaroslavl Oblasts in central Russia."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85614013671875,
+          57.25305205110969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Votkinsk Reservoir",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Votkinsk_Reservoir",
+        "comment": "The Votkinsk Reservoir, is a reservoir formed by the dam of the Votkinsk Hydroelectric Station on the Kama River in Perm Krai and Udmurtia, Russia. The reservoir filling took place in 1962-1964. The Votkinsk Reservoir has a surface area of 1,120 km² and a water volume of 9,4 cubic km. Its length is 365 km, major width - 9 km, average depth - 8,4 m."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.55810546875,
+          57.06463027327855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Orava (reservoir)",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Orava_(reservoir)",
+        "comment": "Orava is a reservoir in northernmost Slovakia, which is the largest lake in Slovakia (35.2 km²). It has been constructed between 1941 and 1953 as a dam built on the former two sources of the Orava river. Several former villages had to be inundated for this purpose."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5611572265625,
+          49.396675075193976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabcíkovo–Nagymaros Dams",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Gabcikovo_-_Nagymaros_Dams",
+        "comment": "The Gabčíkovo–Nagymaros Dams is a large barrage project on theDanube. It was initiated by the Budapest Treaty of 16 September 1977 between the Czechoslovak Socialist Republic and the People's Republic of Hungary. The project aimed at preventing catastrophic floods, improving river navigability and producing clean electricity."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.538471221923828,
+          47.88043398091892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zemplínska šírava",
+        "type": "dam",
+        "url": "http://en.wikipedia.org/wiki/Zempl%C3%ADnska_Sirava",
+        "comment": "Zemplínska šírava is a dam and lake in eastern Slovakia, near the town of Michalovce, wholly belonging to the Michalovce District. The name recalls the historical Zemplín region. The dam was built in 1961–1965, covers an area of 33 km2 (13 sq mi), has an average depth of 9.5 m (31 ft), with a maximum depth of 14 m (46 ft)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.00836181640625,
+          48.786961645533275
+        ]
+      }
     }
   ]
 }
